@@ -1,27 +1,59 @@
-\documentclass{beamer}
-\usepackage[utf8]{inputenc}
-\usepackage[russian]{babel}
-\usetheme{Luebeck}
-\usecolortheme{wolverine}
-\setbeamersize{text margin left=0cm,text margin right=0cm}
-\setbeamertemplate{navigation symbols}{}
-\date{}
-\title[]{\huge Создание презентаций в системе $\rm L^AT_EX$}
-\institute[КемГУ]{\large Кемеровский государственный университет}
-\author{Пасютин А.С.}
+\documentclass[russian]{beamer}
+%\documentclass[handout]{beamer} %раздаточный материал
+
+%%% Работа с русским языком
+\usepackage{cmap} %поиск в PDF
+\usepackage{mathtext} %русские буквы в формулах
+\usepackage[T2A]{fontenc} %кодировка
+\usepackage[utf8]{inputenc} %кодировка исходного текста
+\usepackage[english,russian]{babel} %локализация и переносы
+
+%%Beamer по-русски
+\newtheorem{rtheorem}{Теорема}
+\newtheorem{rproof}{Доказательство}
+\newtheorem{rexample}{Пример}
+
+%%% Матпакеты
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} %AMS
+\usepackage{icomma} %"Умная запятая": $0,2$ --  число, $0, 2$ -- перечисление
+
+%% Номера формул
+%\mathtoolsset{showonlyrefs=true} %Показывать номера только у тех в формул,
+%на которые есть \eqref{} в тексте
+%\usepackage{legno} %нумеризация формул слева
+
+%%Свои команды
+\DeclareMathOperator{\sgn}{\mathop{sgn}}
+
+%%Перенос знаков в формулах (по Львовскому)
+\newcommand*{\hm}[1]{#1\nobreak\discretionary{}
+	{\hbox{$\mathsurround=0pt #1$}}{}}
+
+%%%Работа с картинками
+\usepackage{graphics} %Для вставки рисунков
+\graphicspath{{images/}} %папки с картинками
+
+\usetheme{Montpellier} %тема оформления
+%beamer theme matrix
+\usecolortheme{crane}
+
+%%%Заголовок
+\author[Автор]{Имя автора}
+\title[Презентация]{Название презентации}
+\subtitle{Подзаголовок}
+\date[Дата]{\today}
+\institute[КемГУ]{Кемеровский государственный университет}
+
 \begin{document}
+	
 \begin{frame}
-	\titlepage
+	\maketitle
 \end{frame}
+
+\section{Оглавление}
 \begin{frame}
-	\frametitle{\huge Почему $\rm L^AT_EX$?}
-	\begin{enumerate}
-		\centering
-		\Large
-		\item<1-> Создание презентации в формате PDF
-		\item<2-> Возможность использования сложных формул
-		\item<3-> Гибкая настройка подачи информации
-	\end{enumerate}
+	\frametitle{Оглавление}
+	\tableofcontents %оглавление
 \end{frame}
 \end{document}
 
