@@ -1,2 +1,4 @@
 \babel@toc {english}{}
 \beamer@sectionintoc {1}{Оглавление}{2}{0}{1}
+\beamer@sectionintoc {2}{Поочередное появление объектов}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{Команда pause}{3}{0}{2}

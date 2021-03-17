@@ -1,5 +1,6 @@
 \documentclass[russian]{beamer}
 %\documentclass[handout]{beamer} %раздаточный материал
+%\documentclass[aspectratio=169]{beamer}
 
 %%% Работа с русским языком
 \usepackage{cmap} %поиск в PDF
@@ -54,6 +55,47 @@
 \begin{frame}
 	\frametitle{Оглавление}
 	\tableofcontents %оглавление
+\end{frame}
+
+\section{Поочередное появление объектов}
+\subsection{Команда pause}
+
+\begin{frame}
+	\frametitle{\insertsection}
+	\framesubtitle{\insertsubsection}
+	\begin{itemize}
+		\item beamer --- это \alert{удобный} \textbf{пакет} для
+		создания презентаций.
+		\item Первый слайд. \pause
+		\item Паузу можно поставить в любом \pause месте.
+		\item Режим handout для печати, убирает паузы.
+	\end{itemize}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Поочередное появление пунктов списка}
+	\framesubtitle{\insertsubsection}
+	\uncover<4->{Строчка появляется не сразу, но занимает место.}
+	\only<5->{Строчка появляется не сразу, но не занимает место.}
+	\begin{enumerate}
+		\item<1-5> Сначала появляется первый и последний пункт
+		(первый потом исчезнет).
+		\item<2-> Потом второй
+		\item<3-> И наконец третий
+		\item<1-> Последний пункт появляется вместе с первым
+		\item<6-> В самом конце первый пункт исчезает, зато появляется
+		картинка: ---.
+	\end{enumerate}
+	\alt<4>{Это \alert{четвертый} слайд.}{Это не четвертый слайд.}
+	\temporal<3-4>{Слайды 1, 2}{Слайды 3, 4}{Слайды 5, 6, 7, ...}
+\end{frame}
+
+\begin{frame}{Пример}
+	\textbf{This line is bold on all three slides.}
+	\textbf<2>{This line is bold on the second slide.}
+	\textbf<3>{This line is bold on the third slide.}
+	\textbf<3-4>{Строчка полужирная на 3-м и 4-м слайде.}
+	\color<3-4>[RGB]{255,0,0} Этот текст красный только на слайдах 3-4.
 \end{frame}
 \end{document}
 
