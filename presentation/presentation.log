@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.3)  17 MAR 2021 19:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.3)  17 MAR 2021 20:47
 entering extended mode
 **./presentation.tex
 (presentation.tex
@@ -1368,6 +1368,11 @@ thkerncmss.
 ] [15
 
 ]
+[16
+
+] [17
+
+]
 \tf@nav=\write6
 \openout6 = `presentation.nav'.
 
@@ -1377,34 +1382,35 @@ thkerncmss.
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-
-(presentation.aux)
+ (presentation.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `presentation.out' has not changed.
-(rerunfilecheck)             Checksum: ACA8E8628534725818D410503D9DFC5D;552.
+(rerunfilecheck)             Checksum: 2C3950572CC2091C67D6BDF73236A62E;853.
  ) 
 Here is how much of TeX's memory you used:
- 23345 strings out of 479334
- 426502 string characters out of 2866922
- 728606 words of memory out of 10000000
- 40200 multiletter control sequences out of 15000+200000
- 417741 words of font info for 59 fonts, out of 3000000 for 9000
+ 23399 strings out of 479334
+ 427523 string characters out of 2866922
+ 729653 words of memory out of 10000000
+ 40243 multiletter control sequences out of 15000+200000
+ 419447 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 131i,14n,132p,419b,568s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 131i,14n,132p,419b,632s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Александр\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/
-dpi600\lasx1095.pk> <C:\Users\Александр\AppData\Local\MiKTeX\fonts/pk/
-ljfour/lh/lh-t2a/dpi600\lass0900.pk> <C:\Users\Александр\AppData\Local
-\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass0800.pk> <C:\Users\Алексан�
-�р\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass1095.pk> <C:\User
+dpi600\lasi1095.pk> <C:\Users\Александр\AppData\Local\MiKTeX\fonts/pk/
+ljfour/lh/lh-t2a/dpi600\lass1200.pk> <C:\Users\Александр\AppData\Local
+\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lasx1095.pk> <C:\Users\Алексан�
+�р\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass0900.pk> <C:\User
 s\Александр\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass
-1440.pk> <C:\Users\Александр\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/l
-h-t2a/dpi600\lass0600.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/s
-ymbols/msam10.pfb>
-Output written on presentation.pdf (15 pages, 173734 bytes).
+0800.pk> <C:\Users\Александр\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/l
+h-t2a/dpi600\lass1095.pk> <C:\Users\Александр\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/lh/lh-t2a/dpi600\lass1440.pk> <C:\Users\Александр\AppData
+\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass0600.pk><C:/Program Files/Mi
+KTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on presentation.pdf (17 pages, 208719 bytes).
 PDF statistics:
- 719 PDF objects out of 1000 (max. 8388607)
- 34 named destinations out of 1000 (max. 500000)
- 87 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 864 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
+ 103 words of extra memory for PDF output out of 10000 (max. 10000000)
 

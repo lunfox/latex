@@ -90,12 +90,43 @@
 	\temporal<3-4>{Слайды 1, 2}{Слайды 3, 4}{Слайды 5, 6, 7, ...}
 \end{frame}
 
-\begin{frame}{Пример}
+\begin{frame}{Пример} \label{lab}
 	\textbf{This line is bold on all three slides.}
 	\textbf<2>{This line is bold on the second slide.}
 	\textbf<3>{This line is bold on the third slide.}
 	\textbf<3-4>{Строчка полужирная на 3-м и 4-м слайде.}
 	\color<3-4>[RGB]{255,0,0} Этот текст красный только на слайдах 3-4.
+\end{frame}
+
+\section{Выделение информации}
+\subsection{Блоки}
+
+\begin{frame}
+	\frametitle{\insertsection}
+	\framesubtitle{\insertsubsection}
+	\begin{block}{Первый блок}
+		Текст первого блока
+	\end{block}
+	\begin{block}{Второй блок}
+		Текст второго блока
+	\end{block}
+	\begin{block}{Кнопка}
+		\hyperlink{lab}{\beamerbutton{Тык}}
+	\end{block}
+\end{frame}
+
+\begin{frame}
+	\frametitle{\insertsection}
+	\framesubtitle{\insertsubsection}
+	\begin{rtheorem}
+		Формулировка теоремы.
+	\end{rtheorem}
+	\begin{rproof}
+		Текст доказательства.
+	\end{rproof}
+	\begin{rexample}
+		Текст примера.
+	\end{rexample}
 \end{frame}
 \end{document}
 
