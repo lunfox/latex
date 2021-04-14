@@ -4,3 +4,7 @@
 \beamer@subsectionintoc {2}{1}{Команда pause}{3}{0}{2}
 \beamer@sectionintoc {3}{Выделение информации}{16}{0}{3}
 \beamer@subsectionintoc {3}{1}{Блоки}{16}{0}{3}
+\beamer@sectionintoc {4}{Рисунки}{18}{0}{4}
+\beamer@subsectionintoc {4}{1}{Растровые}{18}{0}{4}
+\beamer@subsectionintoc {4}{2}{Векторные}{19}{0}{4}
+\beamer@sectionintoc {5}{Таблицы}{20}{0}{5}

@@ -33,6 +33,14 @@
 %%%Работа с картинками
 \usepackage{graphics} %Для вставки рисунков
 \graphicspath{{images/}} %папки с картинками
+\setlength\fboxsep{3pt} %отступ рамки \fbox{} от рисунка 
+\setlength\fboxrule{1pt} %толщина линий рамки \fbox{}
+\usepackage{wrapfig} %обтекание рисунков и таблиц текстом
+
+%%%Работа с таблицами
+\usepackage{array,tabularx,tabulary,booktabs} %дополнительная работа с таблицами
+\usepackage{longtable} %длинные таблицы
+\usepackage{multirow} %слияние строк в таблице
 
 \usetheme{Montpellier} %тема оформления
 %beamer theme matrix
@@ -52,12 +60,14 @@
 \end{frame}
 
 \section{Оглавление}
+
 \begin{frame}
 	\frametitle{Оглавление}
 	\tableofcontents %оглавление
 \end{frame}
 
 \section{Поочередное появление объектов}
+
 \subsection{Команда pause}
 
 \begin{frame}
@@ -99,6 +109,7 @@
 \end{frame}
 
 \section{Выделение информации}
+
 \subsection{Блоки}
 
 \begin{frame}
@@ -128,6 +139,76 @@
 		Текст примера.
 	\end{rexample}
 \end{frame}
+
+\section{Рисунки}
+
+\subsection{Растровые}
+
+\begin{frame}
+	\includegraphics[scale=0.2]{kemsu_logo}	%масштаб
+	\includegraphics[width=2cm,height=2cm]{kemsu_logo} %ширина, высота
+	\includegraphics[width=2cm,height=2cm,keepaspectratio]{kemsu_logo} %сохранение пропорций
+\end{frame}
+
+\subsection{Векторные}
+
+\begin{frame}
+	\includegraphics[scale=0.2]{logo}
+\end{frame}
+
+\section{Таблицы}
+
+\setlength{\extrarowheight}{6mm}
+
+\begin{frame}
+\begin{tabular}{|p{4cm}cr|}
+	\hline
+	 очень длинное предложение с большим набором символов & $6\times2$ & 13 \\
+	 21 &  $\displaystyle\frac{x}{y}$ & 23 \\[6mm]
+	\hline
+	 31 & 32 & 33 \\
+	\hline
+\end{tabular}
+\setlength{\extrarowheight}{0mm}
+\end{frame}
+
+\begin{frame}
+	\begin{tabularx}{\textwidth}{X|X|X}
+		\hline 
+		Очень-очень длинное предложение из многих слов & Текст покороче & 
+		Очень-очень длинное предложение из многих слов Очень-очень длинное предложение из многих слов
+	\end{tabularx}
+\end{frame}
+
+\begin{frame}
+	\begin{tabulary}{\textwidth}{L|R|R}
+		\hline 
+		Очень-очень длинное предложение из многих слов 
+		& Текст покороче & 
+		Очень-очень длинное предложение из многих слов Очень-очень длинное предложение из многих слов
+	\end{tabulary}
+\end{frame}
+
+\begin{frame}
+	\begin{table}[h]
+		\begin{center}
+			\caption{Название таблицы}
+			\begin{tabular}{|c|c|c|c||l|c|c|r|c|c|}
+				\hline
+				1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 \\ \hline
+				Первый & Второй & \multicolumn{3}{|c|}{Третий -- пятый}
+				& & & Восьмой & & \\
+				\cline{1-7} \cline{9-10}
+				1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 \\ \hline \hline
+				1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 \\ \hline
+				\multirow{3}{*}{Три строки} & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 \\ \cline{2-10}
+				& 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 \\ \cline{2-10}
+				& 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 \\ \hline
+			\end{tabular}
+		\end{center}
+	\end{table}
+\end{frame}
+
 \end{document}
 
 	
