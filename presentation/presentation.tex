@@ -161,7 +161,7 @@
 \setlength{\extrarowheight}{6mm}
 
 \begin{frame}
-\begin{tabular}{|p{4cm}cr|}
+\begin{tabular}{|p{4cm}|c|r|}
 	\hline
 	 очень длинное предложение с большим набором символов & $6\times2$ & 13 \\
 	 21 &  $\displaystyle\frac{x}{y}$ & 23 \\[6mm]
@@ -173,20 +173,12 @@
 \end{frame}
 
 \begin{frame}
-	\begin{tabularx}{\textwidth}{X|X|X}
+	\begin{tabularx}{\textwidth}{|X|X|X|}
 		\hline 
 		Очень-очень длинное предложение из многих слов & Текст покороче & 
-		Очень-очень длинное предложение из многих слов Очень-очень длинное предложение из многих слов
+		Очень-очень длинное предложение из многих слов Очень-очень длинное предложение из многих слов \\
+		\hline
 	\end{tabularx}
-\end{frame}
-
-\begin{frame}
-	\begin{tabulary}{\textwidth}{L|R|R}
-		\hline 
-		Очень-очень длинное предложение из многих слов 
-		& Текст покороче & 
-		Очень-очень длинное предложение из многих слов Очень-очень длинное предложение из многих слов
-	\end{tabulary}
 \end{frame}
 
 \begin{frame}
@@ -201,9 +193,8 @@
 				\cline{1-7} \cline{9-10}
 				1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 \\ \hline \hline
 				1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 \\ \hline
-				\multirow{3}{*}{Три строки} & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 \\ \cline{2-10}
-				& 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 \\ \cline{2-10}
-				& 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 \\ \hline
+				\multirow{2}{*}{Две строки} & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 \\ \cline{2-10}
+				& 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 \\  \hline
 			\end{tabular}
 		\end{center}
 	\end{table}
