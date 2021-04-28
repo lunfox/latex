@@ -45,8 +45,19 @@
 \headcommand {\beamer@framepages {21}{21}}
 \headcommand {\slideentry {5}{0}{3}{22/22}{}{0}}
 \headcommand {\beamer@framepages {22}{22}}
-\headcommand {\beamer@partpages {1}{22}}
-\headcommand {\beamer@subsectionpages {20}{22}}
 \headcommand {\beamer@sectionpages {20}{22}}
-\headcommand {\beamer@documentpages {22}}
-\headcommand {\gdef \inserttotalframenumber {12}}
+\headcommand {\beamer@subsectionpages {20}{22}}
+\headcommand {\sectionentry {6}{Видео}{23}{Видео}{0}}
+\headcommand {\beamer@subsectionpages {23}{22}}
+\headcommand {\beamer@subsectionentry {0}{6}{1}{23}{С использованием флеш плеера}}
+\headcommand {\slideentry {6}{1}{1}{23/23}{С использованием флеш плеера}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\beamer@subsectionpages {23}{23}}
+\headcommand {\beamer@subsectionentry {0}{6}{2}{24}{Использование ссылки на файл}}
+\headcommand {\slideentry {6}{2}{1}{24/24}{Использование ссылки на файл}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\beamer@partpages {1}{24}}
+\headcommand {\beamer@subsectionpages {24}{24}}
+\headcommand {\beamer@sectionpages {23}{24}}
+\headcommand {\beamer@documentpages {24}}
+\headcommand {\gdef \inserttotalframenumber {14}}

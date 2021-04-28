@@ -42,6 +42,11 @@
 \usepackage{longtable} %длинные таблицы
 \usepackage{multirow} %слияние строк в таблице
 
+%%%Работа с видео и аудио
+\usepackage{multimedia}
+\usepackage{media9}
+\usepackage{hyperref}
+
 \usetheme{Montpellier} %тема оформления
 %beamer theme matrix
 \usecolortheme{crane}
@@ -200,6 +205,27 @@
 	\end{table}
 \end{frame}
 
+\section{Видео}
+\subsection{С использованием флеш плеера}
+\begin{frame}
+	\frametitle{\insertsubsection}
+	\includemedia[
+	activate=pageopen,
+	width=320pt,height=180pt,
+	addresource=AMOGUS.mp4,
+	flashvars={%
+		source=AMOGUS.mp4
+		&loop=true}
+	]{}{VPlayer.swf}
+\end{frame}
+
+\subsection{Использование ссылки на файл}
+\begin{frame}
+	\begin{center}
+		\frametitle{\insertsubsection}
+		\href{run:AMOGUS.avi}{\includegraphics[scale=0.25]{AMOGUS.jpg}}
+	\end{center}
+\end{frame}
 \end{document}
 
 	
