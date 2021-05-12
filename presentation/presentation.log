@@ -1,14 +1,13 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.3)  28 APR 2021 20:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.5.8)  12 MAY 2021 19:15
 entering extended mode
 **./presentation.tex
 (presentation.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> xparse <2020-03-03>
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamer.cls
-Document Class: beamer 2021/02/09 v3.61 A class for typesetting presentations
-
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-modes.sty (C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamer.cls
+Document Class: beamer 2021/03/19 v3.62 A class for typesetting presentations
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbasemodes.sty
+(C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count179
 )
@@ -16,15 +15,15 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \beamer@tempcount=\count180
 \c@beamerpauses=\count181
 
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-decode.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbasedecode.sty
 \beamer@slideinframe=\count182
 \beamer@minimum=\count183
 \beamer@decode@box=\box48
 )
 \beamer@commentbox=\box49
 \beamer@modecount=\count184
-) (C:\Program Files\MiKTeX\tex/generic/iftex\ifpdf.sty
+)
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
 
 (C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
@@ -73,18 +72,18 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \beamer@sectionadjust=\count268
 \beamer@tocsectionnumber=\count269
 
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-options.sty (C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbaseoptions.sty
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 ))
 \beamer@paperwidth=\skip48
 \beamer@paperheight=\skip49
 
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry
-.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count270
@@ -100,8 +99,8 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen161
 \Gm@dimlist=\toks16
 
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry
-.cfg)) (C:\Program Files\MiKTeX\tex/latex/base\size11.clo
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Program Files\MiKTeX\tex/latex/base\size11.clo
 File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
 (C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty
@@ -332,53 +331,45 @@ with kernel methods
 (C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2021-02-10 v7.00j Hypertext links for LaTeX
 
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds
-.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+)
+(C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwa
-rerr.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/generic/kvsetkeys\kvset
-keys.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kv
-definekeys.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/generic/pdfescape\pdfes
-cape.sty
+) (C:\Users\Alex\AppData\Roaming\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/hycolor\hycolor.s
-ty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/letltxmacro\letlt
-xmacro.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/auxhook\auxhook.s
-ty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptio
-ns.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen257
 \Hy@linkcounter=\count287
 \Hy@pagecounter=\count288
- (C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2021-02-10 v7.00j Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
@@ -387,16 +378,15 @@ Now handling font encoding PD1 ...
 File: hyperref-langpatches.def 2021-02-10 v7.00j Hyperref: patches for babel la
 nguages
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc
-.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/generic/etexcmds\etexcm
-ds.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count289
- (C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2021-02-10 v7.00j Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -421,12 +411,10 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 LaTeX Info: Redefining \url on input line 4804.
 \XeTeXLinkMargin=\dimen258
 
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.s
-ty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/generic/bigintcalc\bigi
-ntcalc.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
@@ -460,23 +448,21 @@ with kernel methods
 \Fld@listcount=\count293
 \c@bookmark@seq@number=\count294
 
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\re
-runfilecheck.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.s
+ty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/generic/uniquecounter\u
-niquecounter.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/generic/uniquecounter\uniquecounter.s
+ty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 ))
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-requires.sty
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-compatibility.sty)
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-font.sty (C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbaserequires.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbasecompatibility.
+sty) (C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbasefont.sty
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
@@ -488,17 +474,14 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/sansmathaccent\sa
-nsmathaccent.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/sansmathaccent\sansmathaccent.s
+ty
 Package: sansmathaccent 2020/01/31
+ (C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrlfile.sty
+Package: scrlfile 2021/03/17 v3.33 KOMA-Script package (file load hooks)
 
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrlf
-ile.sty
-Package: scrlfile 2020/09/21 v3.32 KOMA-Script package (file load hooks)
-
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrlf
-ile-hook.sty
-Package: scrlfile-hook 2020/09/21 v3.32 KOMA-Script package (using LaTeX hooks)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrlfile-hook.sty
+Package: scrlfile-hook 2021/03/17 v3.33 KOMA-Script package (using LaTeX hooks)
 
 
 LaTeX3 Info: Defining command \BeforeFile with sig. 'm' on line 61.
@@ -579,38 +562,28 @@ LaTeX3 Info: Defining command \protected@immediate@write with sig. 'm+m+m' on
 (LaTeX3)     line 298.
 
 
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrlo
-go.sty
-Package: scrlogo 2020/09/21 v3.32 KOMA-Script package (logo)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2021/03/17 v3.33 KOMA-Script package (logo)
 )))))
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-translator.sty
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/translator\transl
-ator.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbasetranslator.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/translator\translator.sty
 Package: translator 2020-08-03 v1.12c Easy translation of strings in LaTeX
 ))
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-misc.sty)
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-twoscreens.sty)
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-overlay.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbasemisc.sty)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbasetwoscreens.sty
+) (C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbaseoverlay.sty
 \beamer@argscount=\count295
 \beamer@lastskipcover=\skip50
 \beamer@trivlistdepth=\count296
-)
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-title.sty)
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-section.sty
+) (C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbasetitle.sty)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbasesection.sty
 \c@lecture=\count297
 \c@part=\count298
 \c@section=\count299
 \c@subsection=\count300
 \c@subsubsection=\count301
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-frame.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbaseframe.sty
 \beamer@framebox=\box62
 \beamer@frametitlebox=\box63
 \beamer@zoombox=\box64
@@ -626,38 +599,30 @@ frame.sty
 \framewidth=\dimen262
 \c@framenumber=\count305
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-verbatim.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbaseverbatim.sty
 \beamer@verbatimfileout=\write4
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-framesize.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbaseframesize.sty
 \beamer@splitbox=\box65
 \beamer@autobreakcount=\count306
 \beamer@autobreaklastheight=\dimen263
 \beamer@frametitletoks=\toks29
 \beamer@framesubtitletoks=\toks30
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-framecomponents.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbaseframecomponent
+s.sty
 \beamer@footins=\box66
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-color.sty)
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-notes.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbasecolor.sty)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbasenotes.sty
 \beamer@frameboxcopy=\box67
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-toc.sty)
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-templates.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbasetoc.sty)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbasetemplates.sty
 \beamer@sbttoks=\toks31
 
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-auxtemplates.sty
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-boxes.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbaseauxtemplates.s
+ty (C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbaseboxes.sty
 \bmb@box=\box68
 \bmb@colorbox=\box69
 \bmb@boxwidth=\dimen264
@@ -670,8 +635,8 @@ boxes.sty
 )
 \beamer@blockheadheight=\dimen271
 ))
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-localstructure.sty (C:\Program Files\MiKTeX\tex/latex/latex-tools\enumerate.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbaselocalstructure
+.sty (C:\Program Files\MiKTeX\tex/latex/latex-tools\enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks32
 )
@@ -681,12 +646,10 @@ Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \abovecaptionskip=\skip56
 \belowcaptionskip=\skip57
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-navigation.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbasenavigation.sty
 \beamer@section@min@dim=\dimen272
-)
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-theorems.sty (C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+) (C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbasetheorems.sty
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2020/09/23 v2.17i AMS math features
 \@mathmargin=\skip58
 
@@ -744,7 +707,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 LaTeX Info: Redefining \[ on input line 2923.
 LaTeX Info: Redefining \] on input line 2924.
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/amscls\amsthm.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks38
 \thm@bodyfont=\toks39
@@ -758,37 +721,34 @@ Package: amsthm 2020/05/29 v2.20.6
 )
 \c@theorem=\count321
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbase
-themes.sty))
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerthem
-edefault.sty
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerfont
-themedefault.sty)
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamercolo
-rthemedefault.sty)
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerinne
-rthemedefault.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerbasethemes.sty))
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerthemedefault.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerfontthemedefault.s
+ty)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamercolorthemedefault.
+sty)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerinnerthemedefault.
+sty
 \beamer@dima=\dimen282
 \beamer@dimb=\dimen283
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beameroute
-rthemedefault.sty)))
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/cmap\cmap.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerouterthemedefault.
+sty))) (C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/cmap\cmap.sty
 Package: cmap 2021/02/06 v1.0j CMap support: searchable PDF
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/t2\mathtext.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/t2\mathtext.sty
 Package: mathtext 2018/04/13 v1.1 transparent text-and-math defs
 LaTeX Info: Redefining \halign on input line 119.
 )
 (C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/cyrillic\t2aenc.d
-ef
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/cyrillic\t2aenc.def
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
- (C:\Program Files\MiKTeX\tex/latex/base\t2aenc.dfu
+
+(C:\Program Files\MiKTeX\tex/latex/base\t2aenc.dfu
 File: t2aenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
@@ -992,8 +952,7 @@ File: t2aenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
 LaTeX Font Info:    Trying to load font information for T2A+cmss on input line 
 112.
 
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/cyrillic\t2acmss.
-fd
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/cyrillic\t2acmss.fd
 File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )<<t2a.cmap>>) (C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2020/08/01 v1.3d Input encoding file
@@ -1022,13 +981,13 @@ LaTeX Info: Redefining \textlatin on input line 716.
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/babel-russian\rus
-sianb.ldf
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/babel-russian\russianb.ldf
 File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
 Language: russian 2020/09/09 1.3k Russian support for the Babel system
 Package babel Info: Making " an active character on input line 124.
 Package babel Info: Default for \cyrdash is provided on input line 163.
-) (C:\Program Files\MiKTeX\tex/latex/babel-english\english.ldf
+)
+(C:\Program Files\MiKTeX\tex/latex/babel-english\english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: \l@canadian = using hyphenrules for english
 (babel)             (\language0) on input line 102.
@@ -1048,11 +1007,10 @@ Package babel Warning: Last declared language option is `russian',
 \c@rtheorem=\count324
 \c@rproof=\count325
 \c@rexample=\count326
+ (C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/mathtools\mathtools.sty
+Package: mathtools 2021/04/12 v1.27 mathematical typesetting tools
 
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/mathtools\mathtoo
-ls.sty
-Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
- (C:\Program Files\MiKTeX\tex/latex/latex-tools\calc.sty
+(C:\Program Files\MiKTeX\tex/latex/latex-tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count327
 \calc@Bcount=\count328
@@ -1065,9 +1023,8 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count329
 \calc@Cskip=\skip66
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/mathtools\mhsetup
-.sty
-Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
 LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
@@ -1085,18 +1042,18 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
 \xmathstrut@box=\box72
 \xmathstrut@dim=\dimen294
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/was\icomma.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/was\icomma.sty
 Package: icomma 2002/03/10 v2.0 (WaS)
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/wrapfig\wrapfig.s
-ty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/wrapfig\wrapfig.sty
 \wrapoverhang=\dimen295
 \WF@size=\dimen296
 \c@WF@wrappedlines=\count331
 \WF@box=\box73
 \WF@everypar=\toks46
 Package: wrapfig 2003/01/31  v 3.6
-) (C:\Program Files\MiKTeX\tex/latex/latex-tools\array.sty
+)
+(C:\Program Files\MiKTeX\tex/latex/latex-tools\array.sty
 Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
 \col@sep=\dimen297
 \ar@mcellbox=\box74
@@ -1116,8 +1073,7 @@ Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \TX@cols=\count332
 \TX@ftn=\toks48
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/tabulary\tabulary
-.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/tabulary\tabulary.sty
 Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
 \TY@count=\count333
 \TY@linewidth=\dimen304
@@ -1125,8 +1081,7 @@ Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
 \tymax=\dimen306
 \TY@tablewidth=\dimen307
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/booktabs\booktabs
-.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen308
 \lightrulewidth=\dimen309
@@ -1145,7 +1100,8 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count336
 \@lastruleclass=\count337
 \@thisrulewidth=\dimen320
-) (C:\Program Files\MiKTeX\tex/latex/latex-tools\longtable.sty
+)
+(C:\Program Files\MiKTeX\tex/latex/latex-tools\longtable.sty
 Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \LTleft=\skip70
 \LTright=\skip71
@@ -1163,20 +1119,18 @@ Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \c@LT@chunks=\count342
 \LT@p@ftn=\toks49
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/multirow\multirow
-.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip74
 \multirow@cntb=\count343
 \multirow@dima=\skip75
 \bigstrutjot=\dimen322
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\multimedia
-.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\multimedia.sty
 Package: multimedia 2012/05/02 ver 0.02
 \mm@movie=\count344
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/media9\media9.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/media9\media9.sty
 (C:\Program Files\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
 (C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2021-02-18 L3 programming layer (loader) 
@@ -1191,14 +1145,13 @@ Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
 Package: media9 2021/03/01 v1.15 acrobat-9/X compatible media
 \g_mix_pkgresizeflag_int=\count346
 
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/media9\pdfbase.st
-y
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/media9\pdfbase.sty
 Package: pdfbase 2021/03/01 v0.46 driver independent access to low-level PDF fe
 atures
 \g_pbs_page_int=\count347
 \g_pbs_oc_int=\count348
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/ocgx2\ocgbase.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/ocgx2\ocgbase.sty
 Package: ocgbase 2021/01/25 v0.18 support package for ocgx2.sty
 \g_ocgbase_nd_int=\count349
 )
@@ -1224,12 +1177,12 @@ LaTeX3 Info: Defining command \includemedia with sig. 'O{}mm' on line 1153.
 LaTeX3 Info: Defining command \mediabutton with sig. 'O{}m' on line 2359.
 
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerthem
-eMontpellier.sty
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beameroute
-rthemetree.sty))
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/beamer\beamercolo
-rthemecrane.sty) (presentation.aux)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerthemeMontpellier.s
+ty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamerouterthemetree.sty
+))
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamercolorthemecrane.st
+y) (presentation.aux)
 \openout1 = `presentation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
@@ -1254,8 +1207,7 @@ LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 61.
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 6
 1.
 
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/cyrillic\t2acmr.f
-d
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 LaTeX Font Info:    ... okay on input line 61.
@@ -1317,12 +1269,11 @@ Package hyperref Info: Link coloring OFF on input line 61.
 (C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount
-.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\
-gettitlestring.sty
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\gettitlestring
+.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count362
@@ -1392,52 +1343,52 @@ LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
 ut line 61.
 
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/translator\transl
-ator-basic-dictionary-English.dict
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/translator\translator-basic-dic
+tionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/translator\transl
-ator-basic-dictionary-Russian.dict
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/translator\translator-basic-dic
+tionary-Russian.dict
 Dictionary: translator-basic-dictionary, Language: Russian 
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/translator\transl
-ator-bibliography-dictionary-English.dict
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/translator\translator-bibliogra
+phy-dictionary-English.dict
 Dictionary: translator-bibliography-dictionary, Language: English 
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/translator\transl
-ator-bibliography-dictionary-Russian.dict
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/translator\translator-bibliogra
+phy-dictionary-Russian.dict
 Dictionary: translator-bibliography-dictionary, Language: Russian 
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/translator\transl
-ator-environment-dictionary-English.dict
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/translator\translator-environme
+nt-dictionary-English.dict
 Dictionary: translator-environment-dictionary, Language: English 
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/translator\transl
-ator-environment-dictionary-Russian.dict
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/translator\translator-environme
+nt-dictionary-Russian.dict
 Dictionary: translator-environment-dictionary, Language: Russian 
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/translator\transl
-ator-months-dictionary-English.dict
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/translator\translator-months-di
+ctionary-English.dict
 Dictionary: translator-months-dictionary, Language: English 
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/translator\transl
-ator-months-dictionary-Russian.dict
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/translator\translator-months-di
+ctionary-Russian.dict
 Dictionary: translator-month-dictionary, Language: Russian 
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/translator\transl
-ator-numbers-dictionary-English.dict
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/translator\translator-numbers-d
+ictionary-English.dict
 Dictionary: translator-numbers-dictionary, Language: English 
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/translator\transl
-ator-numbers-dictionary-Russian.dict
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/translator\translator-numbers-d
+ictionary-Russian.dict
 Dictionary: translator-numbers-dictionary, Language: Russian 
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/translator\transl
-ator-theorem-dictionary-English.dict
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/translator\translator-theorem-d
+ictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/translator\transl
-ator-theorem-dictionary-Russian.dict
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/translator\translator-theorem-d
+ictionary-Russian.dict
 Dictionary: translator-theorem-dictionary, Language: Russian 
 )
 LaTeX Info: Redefining \th on input line 61.
@@ -1510,16 +1461,15 @@ File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
 rytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-))) (presentation.nav) [1{C:/Users/Александр/AppData/Local/MiKTeX/pdft
-ex/config/pdftex.map}
+))) (presentation.nav) [1{C:/Users/Alex/AppData/Local/MiKTeX/pdftex/config/pdft
+ex.map}
 
 ] (presentation.toc) [2
 
 ]<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    Trying to load font information for U+msa on input line 88.
 
-
-(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 88.
@@ -1535,8 +1485,8 @@ LaTeX Font Warning: Font shape `T2A/cmr/m/up' undefined
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
 ut line 88.
 
-(C:\Users\Александр\AppData\Roaming\MiKTeX\tex/latex/sansmathaccent\ot
-1mathkerncmss.fd
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/sansmathaccent\ot1mathkerncmss.
+fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 ) [3
@@ -1565,13 +1515,12 @@ thkerncmss.
 
 ] [15
 
-]
-[16
+] [16
 
 ] [17
 
 ]
-<images//kemsu_logo.png, id=625, 481.8pt x 283.5393pt>
+<images//kemsu_logo.png, id=635, 481.8pt x 283.5393pt>
 File: images//kemsu_logo.png Graphic file (type png)
 <use images//kemsu_logo.png>
 Package pdftex.def Info: images//kemsu_logo.png  used on input line 156.
@@ -1584,10 +1533,11 @@ File: images//kemsu_logo.png Graphic file (type png)
 <use images//kemsu_logo.png>
 Package pdftex.def Info: images//kemsu_logo.png  used on input line 156.
 (pdftex.def)             Requested size: 56.90189pt x 33.48676pt.
- [18
+
+[18
 
  <./images//kemsu_logo.png>]
-<images//logo.pdf, id=658, 597.47943pt x 845.01837pt>
+<images//logo.pdf, id=668, 597.47943pt x 845.01837pt>
 File: images//logo.pdf Graphic file (type pdf)
 <use images//logo.pdf>
 Package pdftex.def Info: images//logo.pdf  used on input line 162.
@@ -1678,7 +1628,7 @@ Overfull \hbox (12.71013pt too wide) in paragraph at lines 220--220
 [23
 
 ]
-<images//AMOGUS.jpg, id=834, 602.25pt x 602.25pt>
+<images//AMOGUS.jpg, id=843, 602.25pt x 602.25pt>
 File: images//AMOGUS.jpg Graphic file (type jpg)
 <use images//AMOGUS.jpg>
 Package pdftex.def Info: images//AMOGUS.jpg  used on input line 228.
@@ -1699,40 +1649,32 @@ Package pdftex.def Info: images//AMOGUS.jpg  used on input line 228.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-Package rerunfilecheck Warning: File `presentation.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `presentation.out':
-(rerunfilecheck)             Before: 40F7B2EC428219B000410D8E10176732;1395
-(rerunfilecheck)             After:  1CBB4D27939CA9A0B261C059E1C5D263;1961.
+Package rerunfilecheck Info: File `presentation.out' has not changed.
+(rerunfilecheck)             Checksum: 1CBB4D27939CA9A0B261C059E1C5D263;1961.
  ) 
 Here is how much of TeX's memory you used:
- 28043 strings out of 479334
- 533334 string characters out of 2866922
- 836694 words of memory out of 10000000
- 44764 multiletter control sequences out of 15000+200000
+ 28053 strings out of 479334
+ 530505 string characters out of 2866964
+ 837363 words of memory out of 3000000
+ 44774 multiletter control sequences out of 15000+200000
  420259 words of font info for 62 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,14n,132p,419b,647s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Александр\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/
-dpi600\lass1000.pk> <C:\Users\Александр\AppData\Local\MiKTeX\fonts/pk/
-ljfour/lh/lh-t2a/dpi600\lasi1095.pk> <C:\Users\Александр\AppData\Local
-\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass1200.pk> <C:\Users\Алексан�
-�р\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lasx1095.pk> <C:\User
-s\Александр\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass
-0900.pk> <C:\Users\Александр\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/l
-h-t2a/dpi600\lass0800.pk> <C:\Users\Александр\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/lh/lh-t2a/dpi600\lass1095.pk> <C:\Users\Александр\AppData
-\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass1440.pk> <C:\Users\Алек�
-�андр\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass0600.pk><C:
-/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Program Fi
-les/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/f
-onts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on presentation.pdf (24 pages, 1189448 bytes).
+ <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass100
+0.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lasi
+1095.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
+ass1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
+0\lasx1095.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dp
+i600\lass0900.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
+/dpi600\lass0800.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-
+t2a/dpi600\lass1095.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
+lh-t2a/dpi600\lass1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/
+lh/lh-t2a/dpi600\lass0600.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmssi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on presentation.pdf (24 pages, 1191476 bytes).
 PDF statistics:
- 1206 PDF objects out of 1440 (max. 8388607)
+ 1215 PDF objects out of 1440 (max. 8388607)
  62 named destinations out of 1000 (max. 500000)
- 240 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 256 words of extra memory for PDF output out of 10000 (max. 10000000)
 

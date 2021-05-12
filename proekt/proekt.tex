@@ -42,6 +42,8 @@
 \usepackage{longtable} %длинные таблицы
 \usepackage{multirow} %слияние строк в таблице
 
+\usepackage{caption}
+
 \usetheme{Montpellier} %тема оформления
 %beamer theme matrix
 \usecolortheme{crane}
@@ -114,6 +116,19 @@
 
 \begin{frame}
 	\frametitle{Используемые средства}
+\begin{figure}[h]
+	\begin{center}
+		\begin{minipage}[h]{0.4\linewidth}
+			\includegraphics[width=5cm,height=5cm]{tex}
+			\caption*{\huge{TeXStudio}}
+		\end{minipage}
+		\hfill											
+		\begin{minipage}[h]{0.4\linewidth}
+			\includegraphics[width=5cm,height=5cm]{miktex}
+			\caption*{\huge{MiKTeX}}
+		\end{minipage}
+	\end{center}
+\end{figure}
 \end{frame}
 
 \begin{frame}
