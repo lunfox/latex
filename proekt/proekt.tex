@@ -1,4 +1,4 @@
-\documentclass[russian]{beamer}
+\documentclass[russian, 14pt]{beamer}
 %\documentclass[handout]{beamer} %раздаточный материал
 %\documentclass[aspectratio=169]{beamer}
 
@@ -42,11 +42,16 @@
 \usepackage{longtable} %длинные таблицы
 \usepackage{multirow} %слияние строк в таблице
 
+%%%Работа с видео и аудио
+\usepackage{multimedia}
+\usepackage{media9}
+\usepackage{hyperref}
+
 \usepackage{caption}
 
-\usetheme{Montpellier} %тема оформления
+\usetheme{Rochester} %тема оформления
 %beamer theme matrix
-\usecolortheme{crane}
+\usecolortheme{whale}
 
 %%%Заголовок
 \author[]{Панчишин Д.И.
@@ -56,7 +61,7 @@
 \title[Презентация]{Проект \textbf{«\LaTeX»}}
 \subtitle{Выполнили студенты 1 курса, ФИТ-204:}
 \date[]{}
-\institute[]{}
+\institute[]{\normalsize\textbf{КемГУ}}
 
 \begin{document}
 	
@@ -90,9 +95,10 @@
 	\end{enumerate}
 \end{frame}
 
-\begin{frame}
+\begin{frame} \label{tab}
 	\frametitle{Календарный план}
-	\begin{tabular}{|l|p{8cm}|}
+	\small{
+	\begin{tabular}{|l|p{8,5cm}|}
 		\hline
 		18.02 & Распределение ролей, создание удаленного репозитория, составление календарного плана \\
 		\hline
@@ -112,6 +118,8 @@
 		27.05-31.05 & Защита проекта \\
 		\hline
 	\end{tabular}
+	\hyperlink{button}{\beamerbutton{Вернуться обратно}}
+}
 \end{frame}
 
 \begin{frame}
@@ -129,6 +137,147 @@
 		\end{minipage}
 	\end{center}
 \end{figure}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Зачем использовать \TeX  для создания презентаций?}
+	\begin{itemize}
+		\item На слайдах отображаетя материал, набранный изначально в \LaTeX'е. 
+		\item На слайдах много формул.
+		\item Вам не хочется думать о переносимости файлов PowerPoint между различными версиями / компьютерами. Готовый файл pdf отображается везде. 
+	\end{itemize}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Beamer}
+	\begin{itemize}
+		\item Beamer - класс для \LaTeX'а,специально предназначенный для создания презентаций.
+		\item Позволяет настраивать внешний вид, переходы и т.п.
+		\item Добавляет новые возможности к командам \TeX'а.
+	\end{itemize}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Титульный слайд}
+	\begin{block}{Преамбула}
+		\textbackslash title[short title]\{long title\}
+		
+		
+		\textbackslash subtitle[short subtitle]\{long subtitle\}
+		
+		
+		\textbackslash author[short name]\{long name\}
+		
+		
+		\textbackslash date[short date]\{long date\}
+		
+		
+		\textbackslash institute[short name]\{long name\}
+		
+		
+		\textbackslash titlepage
+	\end{block}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Frame'ы}
+	\begin{block}{Один кадр}
+		\textbackslash begin\{frame\}
+		
+		
+		\%код \LaTeX'а или текст 
+		
+		
+		\textbackslash end\{frame\}
+	\end{block}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Overlay'и}
+		\begin{block}{Примеры overlay'ев}
+			\pause \textbackslash pause
+			
+			
+			\only<4-> {\textbackslash only<4->} 
+			
+			
+			\uncover<3-> {\textbackslash uncover<3->}
+			
+			
+			\alt<5> {\textbackslash alt<5>}{Сейчас не 5 кадр}
+			
+			
+			\temporal<6>{Сейчас не 6 кадр}{\textbackslash temporal<6>}{6 кадр уже прошел}
+			
+			
+			\begin{itemize}
+				\item<7> {\textbackslash item<7>} 
+			\end{itemize}
+		\end{block}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Блоки}
+	\begin{block}{Название блока}
+		Содержимое блока
+	\end{block}
+
+
+	\textbackslash begin\{block\}\{Название блока\}
+	
+	
+	Содержимое блока
+	
+	
+	\textbackslash end\{block\}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Таблицы}
+	\begin{flushleft}
+	\textbackslash begin\{tabular\}\{|l|p{8,5cm}|\}
+	
+	
+		\textbackslash hline
+		
+		
+		18.02 \& Распределение ролей, создание удаленного репозитория, составление календарного плана \textbackslash\textbackslash
+		
+		
+		\textbackslash hline
+
+
+		...
+		
+		
+		\textbackslash end\{tabular\}
+		
+		
+		\hyperlink{tab}{\beamerbutton{Посмотреть таблицу}}
+	\end{flushleft}
+\end{frame}
+
+\begin{frame} \label{button}
+	\frametitle{Ссылки, кнопки, рисунки}
+	\textbackslash hyperlink\{label\}\{\textbackslash beamerbutton\{Кнопка\}\}
+	
+	
+	\textbackslash hyperlink\{label\}\{\textbackslash includegraphics[scale=0.3]\{kemsu\}\}
+	
+	
+	\centering\hyperlink{video}{\includegraphics[scale=0.3]{kemsu}}
+\end{frame}
+
+\begin{frame} \label{video}
+	\frametitle{Видео}
+	\includemedia[
+	activate=pageopen,
+	width=320pt,height=180pt,
+	addresource=kem.mp4,
+	flashvars={%
+		source=kem.mp4
+		&loop=true}
+	]{}{VPlayer.swf}
 \end{frame}
 
 \begin{frame}

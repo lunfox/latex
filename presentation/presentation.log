@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.5.8)  12 MAY 2021 19:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.5.8)  13 MAY 2021 10:30
 entering extended mode
 **./presentation.tex
 (presentation.tex
@@ -1649,8 +1649,14 @@ Package pdftex.def Info: images//AMOGUS.jpg  used on input line 228.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `presentation.out' has not changed.
-(rerunfilecheck)             Checksum: 1CBB4D27939CA9A0B261C059E1C5D263;1961.
+
+Package rerunfilecheck Warning: File `presentation.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `presentation.out':
+(rerunfilecheck)             Before: C8961ABB3C2F1A43C6D532BCCFFAC1E3;1973
+(rerunfilecheck)             After:  1CBB4D27939CA9A0B261C059E1C5D263;1961.
  ) 
 Here is how much of TeX's memory you used:
  28053 strings out of 479334
@@ -1672,7 +1678,7 @@ lh-t2a/dpi600\lass1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/
 lh/lh-t2a/dpi600\lass0600.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmssi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on presentation.pdf (24 pages, 1191476 bytes).
+Output written on presentation.pdf (24 pages, 1191475 bytes).
 PDF statistics:
  1215 PDF objects out of 1440 (max. 8388607)
  62 named destinations out of 1000 (max. 500000)
