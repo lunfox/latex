@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.17)  13 MAY 2021 22:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.17)  13 MAY 2021 22:40
 entering extended mode
 **./Otchet.tex
 (Otchet.tex
@@ -200,25 +200,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
 
-[2] (Otchet.aux) ) 
+[2] [3] (Otchet.aux) ) 
 Here is how much of TeX's memory you used:
  4032 strings out of 479334
  52105 string characters out of 2856609
- 354325 words of memory out of 3000000
+ 352895 words of memory out of 3000000
  21493 multiletter control sequences out of 15000+200000
  411232 words of font info for 38 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,6n,74p,411b,667s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Dvojka\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-
-t2a/dpi600\lati1000.pk> <C:\Users\Dvojka\AppData\Local\MiKTeX\fonts/pk/ljfour/l
-h/lh-t2a/dpi600\labx1440.pk> <C:\Users\Dvojka\AppData\Local\MiKTeX\fonts/pk/ljf
-our/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\Dvojka\AppData\Local\MiKTeX\fonts/p
-k/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Dvojka\AppData\Local\MiKTeX\fo
-nts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Dvojka\AppData\Local\MiKT
-eX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0700.pk>
-Output written on Otchet.pdf (2 pages, 72755 bytes).
+ <C:\Users\Dvojka\AppData\Local\MiKTeX\fonts/pk/ljfour/lh
+/lh-t2a/dpi600\lati1000.pk> <C:\Users\Dvojka\AppData\Local\MiKTeX\fonts/pk/ljfo
+ur/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Dvojka\AppData\Local\MiKTeX\fonts/pk
+/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\Dvojka\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Dvojka\AppData\Local\MiKTe
+X\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Dvojka\AppData\Local\
+MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0700.pk>
+Output written on Otchet.pdf (3 pages, 72585 bytes).
 PDF statistics:
- 235 PDF objects out of 1000 (max. 8388607)
+ 236 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
