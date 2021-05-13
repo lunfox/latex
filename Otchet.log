@@ -1,0 +1,224 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.17)  13 MAY 2021 22:36
+entering extended mode
+**./Otchet.tex
+(Otchet.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03>
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/ucs\utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/ucs\ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count187
+\uc@combtoks=\toks17
+\uc@combtoksb=\toks18
+\uc@temptokena=\toks19
+)
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/01/26 3.53 The Babel package
+
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count188
+\U@D=\dimen139
+\l@babelnohyphens=\language79
+
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count189
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/babel-russian\russianb
+.ldf
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
+
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 78.
+
+
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+Package babel Info: Making " an active character on input line 124.
+Package babel Info: Default for \cyrdash is provided on input line 163.
+)) (C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen140
+))
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen141
+)
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count190
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count191
+\leftroot@=\count192
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count193
+\DOTSCASE@=\count194
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen142
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count195
+\c@MaxMatrixCols=\count196
+\dotsspace@=\muskip16
+\c@parentequation=\count197
+\dspbrk@lvl=\count198
+\tag@help=\toks21
+\row@=\count199
+\column@=\count266
+\maxfields@=\count267
+\andhelp@=\toks22
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
+\@envbody=\toks23
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count268
+\l__pdf_internal_box=\box49
+) (Otchet.aux
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 5
+.
+
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+\openout1 = `Otchet.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/ucs\ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+LaTeX Info: Redefining \th on input line 7.
+
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-4.def
+File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
+)
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
+[1
+
+{C:/Users/Dvojka/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+Overfull \hbox (12.13008pt too wide) in paragraph at lines 49--49
+[]\T2A/cmr/bx/n/14.4 Актуальность, тео-ре-ти-че-ская и прак-ти-че-ская зна-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+[2] (Otchet.aux) ) 
+Here is how much of TeX's memory you used:
+ 4032 strings out of 479334
+ 52105 string characters out of 2856609
+ 354325 words of memory out of 3000000
+ 21493 multiletter control sequences out of 15000+200000
+ 411232 words of font info for 38 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,6n,74p,411b,667s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Dvojka\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-
+t2a/dpi600\lati1000.pk> <C:\Users\Dvojka\AppData\Local\MiKTeX\fonts/pk/ljfour/l
+h/lh-t2a/dpi600\labx1440.pk> <C:\Users\Dvojka\AppData\Local\MiKTeX\fonts/pk/ljf
+our/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\Dvojka\AppData\Local\MiKTeX\fonts/p
+k/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Dvojka\AppData\Local\MiKTeX\fo
+nts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Dvojka\AppData\Local\MiKT
+eX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0700.pk>
+Output written on Otchet.pdf (2 pages, 72755 bytes).
+PDF statistics:
+ 235 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
