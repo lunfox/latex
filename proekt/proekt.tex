@@ -47,6 +47,36 @@
 \usepackage{media9}
 \usepackage{hyperref}
 
+%%%Листинг кода
+\usepackage{listings}
+\usepackage{xcolor}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+	backgroundcolor=\color{backcolour},   
+	commentstyle=\color{codegreen},
+	keywordstyle=\color{magenta},
+	numberstyle=\normalsize\color{codegray},
+	stringstyle=\color{codepurple},
+	basicstyle=\ttfamily\normalsize,
+	breakatwhitespace=false,         
+	breaklines=true,                 
+	captionpos=b,                    
+	keepspaces=true,                 
+	numbers=left,                    
+	numbersep=5pt,                  
+	showspaces=false,                
+	showstringspaces=false,
+	showtabs=false,                  
+	tabsize=2
+}
+
+\lstset{style=mystyle}
+
 \usepackage{caption}
 
 \usetheme{Rochester} %тема оформления
@@ -278,6 +308,14 @@
 		source=kem.mp4
 		&loop=true}
 	]{}{VPlayer.swf}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Листинг кода}
+	\begin{block}{}
+		\textbackslash lstinputlisting[language=C++]\{programm.cpp\}
+	\end{block}
+	\lstinputlisting[language=C++]{programm.cpp}
 \end{frame}
 
 \begin{frame}
