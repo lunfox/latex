@@ -51,10 +51,16 @@
 \usepackage{listings}
 \usepackage{xcolor}
 
+%%%Цвет таблиц
+\usepackage{colortbl}
+
 \definecolor{codegreen}{rgb}{0,0.6,0}
 \definecolor{codegray}{rgb}{0.5,0.5,0.5}
 \definecolor{codepurple}{rgb}{0.58,0,0.82}
 \definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+\definecolor{Mycolor1}{HTML}{00F9DE}
+\definecolor{Mycolor2}{HTML}{FFCCFF}
+\definecolor{Mycolor3}{HTML}{990000}
 
 \lstdefinestyle{mystyle}{
 	backgroundcolor=\color{backcolour},   
@@ -83,6 +89,10 @@
 %beamer theme matrix
 \usecolortheme{whale}
 
+\setbeamertemplate{navigation symbols}{} %отключение значков навигации
+
+\newcommand{\cm}[1]{{\color{Mycolor3}\textbackslash#1}}
+
 %%%Заголовок
 \author[]{Панчишин Д.И.
 \and Носков Р.И.
@@ -99,16 +109,20 @@
 		\maketitle
 	\end{frame}
 
+\section{Цели}
+
 \begin{frame}
-	\frametitle{Цели}
+	\frametitle{\insertsection}
 	\begin{itemize}
 		\item Научиться делать документы с высококачественной версткой текста и формул
 		\item Продемонстрировать группе возможности \LaTeX'а
 	\end{itemize}
 \end{frame}
 
+\section{Задачи}
+
 \begin{frame}
-	\frametitle{Задачи}
+	\frametitle{\insertsection}
 	\begin{itemize}
 		\item Изучение инструментов и макропакетов \TeX’а
 		\item Получение навыков верстки текста в \LaTeX'е
@@ -116,8 +130,10 @@
 	\end{itemize}
 \end{frame}
 
+\section{Индивидуальные задачи}
+
 \begin{frame}
-	\frametitle{Индивидуальные задачи}
+	\frametitle{\insertsection}
 	\begin{enumerate}
 		\item<1-> \textbf{Панчишин Даниил} - Тим-лид, создание тех задания, работа в \LaTeX’е с мат. формулами, рисунками и графиками;
 		\item<2-> \textbf{Носков Роман} - Работа в \LaTeX’е с инструментами для верстки текста;
@@ -125,26 +141,36 @@
 	\end{enumerate}
 \end{frame}
 
+\section{Календарный план}
+
 \begin{frame} \label{tab}
-	\frametitle{Календарный план}
+	\frametitle{\insertsection}
 	\small{
 	\begin{tabular}{|l|p{8,5cm}|}
 		\hline
+		\rowcolor{Mycolor1}
 		18.02 & Распределение ролей, создание удаленного репозитория, составление календарного плана \\
 		\hline
+		\rowcolor{Mycolor2}
 		4.03 & Изучение общего теоретического материала \\
 		\hline
+		\rowcolor{Mycolor1}
 		18.03 & Начало работы над практической частью проекта \\
 		\hline
+		\rowcolor{Mycolor2}
 		01.04 & Изучение отдельных аспектов \LaTeX’а, распределенных по ролям \\
 		\hline
+		\rowcolor{Mycolor1}
 		15.04 & Создание презентации в \LaTeX, которая бы демонстрировала изученные навыки \\
 		\hline
+		\rowcolor{Mycolor2}
 		29.04 & Создание отчета в \LaTeX, который бы демонстрировал изученные навыки
 		\\
 		\hline
+		\rowcolor{Mycolor1}
 		13.05 & Презентация результатов работы над проектом \\
 		\hline
+		\rowcolor{Mycolor2}
 		27.05-31.05 & Защита проекта \\
 		\hline
 	\end{tabular}
@@ -152,8 +178,10 @@
 }
 \end{frame}
 
+\section{Используемые средства}
+
 \begin{frame}
-	\frametitle{Используемые средства}
+	\frametitle{\insertsection}
 \begin{figure}[h]
 	\begin{center}
 		\begin{minipage}[h]{0.4\linewidth}
@@ -169,8 +197,10 @@
 \end{figure}
 \end{frame}
 
+\section{Зачем использовать \TeX  для создания презентаций?}
+
 \begin{frame}
-	\frametitle{Зачем использовать \TeX  для создания презентаций?}
+	\frametitle{\insertsection}
 	\begin{itemize}
 		\item На слайдах отображаетя материал, набранный изначально в \LaTeX'е. 
 		\item На слайдах много формул.
@@ -178,128 +208,146 @@
 	\end{itemize}
 \end{frame}
 
+\subsection{Beamer}
+
 \begin{frame}
-	\frametitle{Beamer}
+	\frametitle{\insertsubsection}
 	\begin{itemize}
 		\item Beamer - класс для \LaTeX'а,специально предназначенный для создания презентаций.
 		\item Позволяет настраивать внешний вид, переходы и т.п.
-		\item Добавляет новые возможности к командам \TeX'а.
 	\end{itemize}
+	\begin{block}{}
+		 \cm{documentclass}[russian, 14pt]\{beamer\}
+	\end{block}
 \end{frame}
 
+\section{Титульный слайд}
+
 \begin{frame}
-	\frametitle{Титульный слайд}
+	\frametitle{\insertsection}
 	\begin{block}{Преамбула}
-		\textbackslash title[short title]\{long title\}
+		\cm{title}[short title]\{long title\}
 		
 		
-		\textbackslash subtitle[short subtitle]\{long subtitle\}
+		\cm{subtitle}[short subtitle]\{long subtitle\}
 		
 		
-		\textbackslash author[short name]\{long name\}
+		\cm{author}[short name]\{long name\}
 		
 		
-		\textbackslash date[short date]\{long date\}
+		\cm{date}[short date]\{long date\}
 		
 		
-		\textbackslash institute[short name]\{long name\}
+		\cm{institute}[short name]\{long name\}
 		
 		
-		\textbackslash titlepage
+		\cm{titlepage}
 	\end{block}
 \end{frame}
 
+\section{Frame'ы}
+
 \begin{frame}
-	\frametitle{Frame'ы}
+	\frametitle{\insertsection}
 	\begin{block}{Один кадр}
-		\textbackslash begin\{frame\}
+		\cm{begin}\{frame\}
 		
 		
-		\%код \LaTeX'а или текст 
+		\% код \LaTeX'а или текст 
 		
 		
-		\textbackslash end\{frame\}
+		\cm{end}\{frame\}
 	\end{block}
 \end{frame}
 
+\section{Overlay'и}
+
 \begin{frame}
-	\frametitle{Overlay'и}
+	\frametitle{\insertsection}
 		\begin{block}{Примеры overlay'ев}
-			\pause \textbackslash pause
+			\pause \cm{pause}
 			
 			
-			\only<4-> {\textbackslash only<4->} 
+			\only<4-> {\cm{only}<4->} 
 			
 			
-			\uncover<3-> {\textbackslash uncover<3->}
+			\uncover<3-> {\cm{uncover}<3->}
 			
 			
-			\alt<5> {\textbackslash alt<5>}{Сейчас не 5 кадр}
+			\alt<5> {\cm{alt}<5>}{Сейчас не 5 кадр}
 			
 			
-			\temporal<6>{Сейчас не 6 кадр}{\textbackslash temporal<6>}{6 кадр уже прошел}
+			\temporal<6>{Сейчас не 6 кадр}{\cm{temporal}<6>}{6 кадр уже прошел}
 			
 			
 			\begin{itemize}
-				\item<7> {\textbackslash item<7>} 
+				\item<7> {\cm{item}<7>} 
 			\end{itemize}
 		\end{block}
 \end{frame}
 
+\section{Блоки}
+
 \begin{frame}
-	\frametitle{Блоки}
+	\frametitle{\insertsection}
 	\begin{block}{Название блока}
 		Содержимое блока
 	\end{block}
 
 
-	\textbackslash begin\{block\}\{Название блока\}
+	\cm{begin}\{block\}\{Название блока\}
 	
 	
 	Содержимое блока
 	
 	
-	\textbackslash end\{block\}
+	\cm{end}\{block\}
 \end{frame}
 
+\section{Таблицы}
+
 \begin{frame}
-	\frametitle{Таблицы}
+	\frametitle{\insertsection}
 	\begin{flushleft}
-	\textbackslash begin\{tabular\}\{|l|p{8,5cm}|\}
+	\cm{begin}\{tabular\}\{|l|p{8,5cm}|\}
 	
 	
-		\textbackslash hline
+		\cm{hline}
 		
 		
 		18.02 \& Распределение ролей, создание удаленного репозитория, составление календарного плана \textbackslash\textbackslash
 		
 		
-		\textbackslash hline
+		\cm{hline}
 
 
 		...
 		
 		
-		\textbackslash end\{tabular\}
+		\cm{end}\{tabular\}
 		
 		
 		\hyperlink{tab}{\beamerbutton{Посмотреть таблицу}}
 	\end{flushleft}
 \end{frame}
 
+\section{Ссылки, кнопки, рисунки}
+
 \begin{frame} \label{button}
-	\frametitle{Ссылки, кнопки, рисунки}
-	\textbackslash hyperlink\{label\}\{\textbackslash beamerbutton\{Кнопка\}\}
+	\frametitle{\insertsection}
+	\cm{hyperlink}\{label\}\{\cm{beamerbutton}\{Кнопка\}\}
 	
 	
-	\textbackslash hyperlink\{label\}\{\textbackslash includegraphics[scale=0.3]\{kemsu\}\}
+	\cm{hyperlink}\{label\}\{\cm{includegraphics}[scale=0.3]\{kemsu\}\}
 	
 	
 	\centering\hyperlink{video}{\includegraphics[scale=0.3]{kemsu}}
 \end{frame}
 
+\section{Видео}
+
 \begin{frame} \label{video}
-	\frametitle{Видео}
+	\frametitle{\insertsection}
 	\includemedia[
 	activate=pageopen,
 	width=320pt,height=180pt,
@@ -310,12 +358,48 @@
 	]{}{VPlayer.swf}
 \end{frame}
 
+\section{Листинг кода}
+
 \begin{frame}
-	\frametitle{Листинг кода}
+	\frametitle{\insertsection}
 	\begin{block}{}
-		\textbackslash lstinputlisting[language=C++]\{programm.cpp\}
+		\cm{lstinputlisting}[language=C++]\{programm.cpp\}
 	\end{block}
 	\lstinputlisting[language=C++]{programm.cpp}
+\end{frame}
+
+\usebackgroundtemplate{\includegraphics[width=\paperwidth,height=\paperheight]{background.jpg}}
+
+\section{Фон}
+
+\begin{frame}
+	\frametitle{\insertsection}
+	\begin{block}{}
+		\cm{usebackgroundtemplate}\{
+		\cm{includegraphics}\{background.jpg\}\}
+	\end{block}
+\end{frame}
+
+\usebackgroundtemplate{}
+
+\section{Свои команды}
+
+\begin{frame}
+	\frametitle{\insertsection}
+	\begin{block}{}
+		\cm{newcommand}\{\textbackslash имя\}[число]\{действия\}
+	\end{block}
+	\begin{block}{}
+		\cm{newcommand}\{\textbackslash cm\}[1]\{\cm{color}\{Mycolor3\}
+		\cm{textbackslash}\#1\}
+	\end{block}
+\end{frame}
+
+\section{Оглавление}
+
+\begin{frame}
+	\frametitle{\insertsection}
+		\tableofcontents
 \end{frame}
 
 \begin{frame}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.5.8)  20 MAY 2021 20:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.5.8)  24 MAY 2021 20:54
 entering extended mode
 **./proekt.tex
 (proekt.tex
@@ -1202,6 +1202,11 @@ File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
 
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks51
+\minrowclearance=\skip76
+)
 (C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
 
@@ -1248,32 +1253,32 @@ y)
 ty)) (proekt.aux)
 \openout1 = `proekt.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 96.
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 9
-6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 106.
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
+06.
 
 (C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    ... okay on input line 106.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1316,18 +1321,18 @@ LaTeX Font Info:    ... okay on input line 96.
 \scratchbox=\box85
 \nofMPsegments=\count367
 \nofMParguments=\count368
-\everyMPshowfont=\toks51
+\everyMPshowfont=\toks52
 \MPscratchCnt=\count369
 \MPscratchDim=\dimen341
 \MPnumerator=\count370
 \makeMPintoPDFobject=\count371
-\everyMPtoPDFconversion=\toks52
+\everyMPtoPDFconversion=\toks53
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
-Package hyperref Info: Link coloring OFF on input line 96.
+Package hyperref Info: Link coloring OFF on input line 106.
 
 (C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1341,70 +1346,71 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count372
 )
-LaTeX Info: Redefining \ref on input line 96.
-LaTeX Info: Redefining \pageref on input line 96.
-LaTeX Info: Redefining \nameref on input line 96.
+LaTeX Info: Redefining \ref on input line 106.
+LaTeX Info: Redefining \pageref on input line 106.
+LaTeX Info: Redefining \nameref on input line 106.
  (proekt.out) (proekt.out)
 \@outlinefile=\write5
 \openout5 = `proekt.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 96.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 106.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 96.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 106.
 \symnumbers=\mathgroup7
 \sympureletters=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T2A/cmr/m/n on input line 96.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 96.
+(Font)                  OT1/cmss/m/n --> T2A/cmr/m/n on input line 106.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T2A/cmss/b/n on input line 96.
+(Font)                  OT1/cmr/bx/n --> T2A/cmss/b/n on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T2A/cmss/b/n on input line 96.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 96.
+(Font)                  OT1/cmr/bx/n --> T2A/cmss/b/n on input line 106.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T2A/cmss/m/n on input line 96.
+(Font)                  OT1/cmss/m/n --> T2A/cmss/m/n on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T2A/cmss/m/n on input line 96.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 96.
+(Font)                  OT1/cmss/bx/n --> T2A/cmss/m/n on input line 106.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T2A/cmss/m/it on input line 96.
+(Font)                  OT1/cmr/m/it --> T2A/cmss/m/it on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T2A/cmss/m/it on input line 96.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 96.
+(Font)                  OT1/cmr/bx/it --> T2A/cmss/m/it on input line 106.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T2A/cmtt/m/n on input line 96.
+(Font)                  OT1/cmtt/m/n --> T2A/cmtt/m/n on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T2A/cmtt/m/n on input line 96.
+(Font)                  OT1/cmtt/m/n --> T2A/cmtt/m/n on input line 106.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T2A/cmss/m/n --> T2A/cmss/b/n on input line 96.
+(Font)                  T2A/cmss/m/n --> T2A/cmss/b/n on input line 106.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T2A/cmss/m/it --> T2A/cmss/b/it on input line 96.
+(Font)                  T2A/cmss/m/it --> T2A/cmss/b/it on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T2A/cmr/b/n on input line 96.
+(Font)                  OT1/cmss/b/n --> T2A/cmr/b/n on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T2A/cmss/b/n --> T2A/cmss/b/n on input line 96.
+(Font)                  T2A/cmss/b/n --> T2A/cmss/b/n on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T2A/cmss/m/n --> T2A/cmss/b/n on input line 96.
+(Font)                  T2A/cmss/m/n --> T2A/cmss/b/n on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T2A/cmss/m/it --> T2A/cmss/b/it on input line 96.
+(Font)                  T2A/cmss/m/it --> T2A/cmss/b/it on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T2A/cmtt/m/n --> T2A/cmtt/b/n on input line 96.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 96.
+(Font)                  T2A/cmtt/m/n --> T2A/cmtt/b/n on input line 106.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 106.
 LaTeX Font Info:    Encoding `T2A' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `normal' on input line 96
-.
+(Font)              `pureletters' in the math version `normal' on input line 10
+6.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  T2A/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 9
-6.
+(Font)                  T2A/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
+06.
 LaTeX Font Info:    Encoding `T2A' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 96.
+(Font)              `pureletters' in the math version `bold' on input line 106.
+
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T2A/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 9
-6.
+(Font)                  T2A/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 1
+06.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 96.
+ut line 106.
 
 (C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/translator\translator-basic-dic
 tionary-English.dict
@@ -1454,7 +1460,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 ictionary-Russian.dict
 Dictionary: translator-theorem-dictionary, Language: Russian 
 )
-LaTeX Info: Redefining \th on input line 96.
+LaTeX Info: Redefining \th on input line 106.
 \c@lstlisting=\count373
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
@@ -1488,8 +1494,8 @@ Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
 (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)
 \pgffor@iter=\dimen344
 \pgffor@skip=\dimen345
-\pgffor@stack=\toks53
-\pgffor@toks=\toks54
+\pgffor@stack=\toks54
+\pgffor@toks=\toks55
 ))
 (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
@@ -1528,12 +1534,12 @@ File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 rytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 ))) (proekt.nav)<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Trying to load font information for U+msa on input line 100
+LaTeX Font Info:    Trying to load font information for U+msa on input line 110
 .
  (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 100
+LaTeX Font Info:    Trying to load font information for U+msb on input line 110
 .
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -1541,10 +1547,10 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
 LaTeX Font Warning: Font shape `T2A/cmr/m/up' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 100.
+(Font)              using `T2A/cmr/m/n' instead on input line 110.
 
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 100.
+ut line 110.
 
 (C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/sansmathaccent\ot1mathkerncmss.
 fd
@@ -1564,55 +1570,55 @@ thkerncmss.
 ] [6
 
 ]
-Underfull \hbox (badness 2809) in paragraph at lines 153--153
+Underfull \hbox (badness 2809) in paragraph at lines 179--179
 []|\T2A/cmss/m/n/12 Распределение ролей, создание удаленного
  []
 
 
-Underfull \hbox (badness 4660) in paragraph at lines 153--153
+Underfull \hbox (badness 4660) in paragraph at lines 179--179
 []|\T2A/cmss/m/n/12 Начало работы над практической частью
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--153
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
 []|\T2A/cmss/m/n/12 Изучение отдельных аспектов L[]T[]X'а,
  []
 
 
-Underfull \hbox (badness 1009) in paragraph at lines 153--153
+Underfull \hbox (badness 1009) in paragraph at lines 179--179
 []|\T2A/cmss/m/n/12 Создание презентации в L[]T[]X, которая бы
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--153
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
 []|\T2A/cmss/m/n/12 Создание отчета в L[]T[]X, который бы
  []
 
 
-Overfull \hbox (17.18893pt too wide) in paragraph at lines 153--153
+Overfull \hbox (17.18892pt too wide) in paragraph at lines 179--179
 [][] 
  []
 
 [7
 
 ]
-<images//tex.jpg, id=215, 682.55pt x 664.4825pt>
+<images//tex.jpg, id=151, 682.55pt x 664.4825pt>
 File: images//tex.jpg Graphic file (type jpg)
 <use images//tex.jpg>
-Package pdftex.def Info: images//tex.jpg  used on input line 170.
+Package pdftex.def Info: images//tex.jpg  used on input line 198.
 (pdftex.def)             Requested size: 142.25658pt x 142.26274pt.
 
-Overfull \hbox (19.34251pt too wide) in paragraph at lines 170--170
+Overfull \hbox (19.34251pt too wide) in paragraph at lines 198--198
 [][] 
  []
 
-<images//miktex.jpg, id=216, 281.05pt x 281.05pt>
+<images//miktex.jpg, id=152, 281.05pt x 281.05pt>
 File: images//miktex.jpg Graphic file (type jpg)
 <use images//miktex.jpg>
-Package pdftex.def Info: images//miktex.jpg  used on input line 170.
+Package pdftex.def Info: images//miktex.jpg  used on input line 198.
 (pdftex.def)             Requested size: 142.26147pt x 142.26147pt.
 
-Overfull \hbox (19.34741pt too wide) in paragraph at lines 170--170
+Overfull \hbox (19.34741pt too wide) in paragraph at lines 198--198
 [][] 
  []
 
@@ -1646,19 +1652,20 @@ Overfull \hbox (19.34741pt too wide) in paragraph at lines 170--170
 ] [21
 
 ]
-Overfull \hbox (12.11784pt too wide) in paragraph at lines 299--299
-[]\T2A/cmss/m/n/14.4 \hyperlink{label}{\includegraphics[scale=0.3]{kemsu}}  
+Overfull \hbox (12.11784pt too wide) in paragraph at lines 345--345
+[]\T2A/cmss/m/n/14.4 \hyperlink[]{label}{[]\includegraphics[][scale=0.3]{kemsu}
+}  
  []
 
-<images//kemsu.png, id=586, 481.8pt x 283.5393pt>
+<images//kemsu.png, id=257, 481.8pt x 283.5393pt>
 File: images//kemsu.png Graphic file (type png)
 <use images//kemsu.png>
-Package pdftex.def Info: images//kemsu.png  used on input line 299.
+Package pdftex.def Info: images//kemsu.png  used on input line 345.
 (pdftex.def)             Requested size: 144.5411pt x 85.06244pt.
 [22
 
  <./images//kemsu.png>]<<VPlayer.swf>><<kem.mp4>>
-Overfull \hbox (12.71013pt too wide) in paragraph at lines 311--311
+Overfull \hbox (12.71013pt too wide) in paragraph at lines 359--359
 [][][][][]  
  []
 
@@ -1674,18 +1681,34 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 )
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-319.
+369.
 
 (C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 (programm.cpp)
-Overfull \vbox (10.65392pt too high) detected at line 319
+Overfull \vbox (10.65392pt too high) detected at line 369
  []
 
 [24
 
-] [25
+]
+<images//background.jpg, id=304, 1541.76pt x 867.24pt>
+File: images//background.jpg Graphic file (type jpg)
+<use images//background.jpg>
+Package pdftex.def Info: images//background.jpg  used on input line 381.
+(pdftex.def)             Requested size: 364.19568pt x 273.14235pt.
+ [25
+
+ <./images//background.jpg>] [26
+
+] (proekt.toc)
+Overfull \vbox (111.72626pt too high) detected at line 402
+ []
+
+[27
+
+] [28
 
 ]
 \tf@nav=\write6
@@ -1702,16 +1725,16 @@ Overfull \vbox (10.65392pt too high) detected at line 319
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `proekt.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: 01B9B7A3A8CFB5613A73AF8E16A6125E;2560.
  ) 
 Here is how much of TeX's memory you used:
- 31104 strings out of 479334
- 579585 string characters out of 2866964
- 1086191 words of memory out of 3000000
- 47748 multiletter control sequences out of 15000+200000
+ 31297 strings out of 479334
+ 582533 string characters out of 2866964
+ 1088488 words of memory out of 3000000
+ 47910 multiletter control sequences out of 15000+200000
  430920 words of font info for 91 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 131i,14n,132p,413b,1396s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 131i,13n,132p,451b,1396s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt144
 0.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass
 2986.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
@@ -1723,9 +1746,9 @@ t2a/dpi600\lass1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
 lh-t2a/dpi600\lasx1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/
 lh/lh-t2a/dpi600\lasx2074.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfo
 ur/lh/lh-t2a/dpi600\lass2074.pk>
-Output written on proekt.pdf (25 pages, 9201149 bytes).
+Output written on proekt.pdf (28 pages, 9347335 bytes).
 PDF statistics:
- 1055 PDF objects out of 1200 (max. 8388607)
- 54 named destinations out of 1000 (max. 500000)
- 160 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 712 PDF objects out of 1000 (max. 8388607)
+ 78 named destinations out of 1000 (max. 500000)
+ 309 words of extra memory for PDF output out of 10000 (max. 10000000)
 
