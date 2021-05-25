@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.17)  13 MAY 2021 22:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.17)  25 MAY 2021 23:28
 entering extended mode
 **./Otchet.tex
 (Otchet.tex
@@ -179,46 +179,218 @@ File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 [1
 
 {C:/Users/Dvojka/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Overfull \hbox (12.13008pt too wide) in paragraph at lines 49--49
+Overfull \hbox (44.38193pt too wide) in paragraph at lines 44--46
+\T2A/cmr/m/n/17.28 1. Опи-са-ние про-ек-та   3
+ []
+
+
+Overfull \hbox (44.55635pt too wide) in paragraph at lines 47--49
+\T2A/cmr/m/n/17.28 2. Со-став груп-пы участ-ни-ков про-ек-та   3
+ []
+
+
+Overfull \hbox (42.00294pt too wide) in paragraph at lines 50--52
+[]\T2A/cmr/m/n/17.28 Состав груп-пы   3
+ []
+
+
+Overfull \hbox (44.41827pt too wide) in paragraph at lines 53--55
+[]\T2A/cmr/m/n/17.28 Общие це-ли и за-да-чи   4
+ []
+
+
+Overfull \hbox (43.61098pt too wide) in paragraph at lines 56--58
+[]\T2A/cmr/m/n/17.28 Распределение по ро-лям   4
+ []
+
+
+Overfull \hbox (43.37674pt too wide) in paragraph at lines 59--61
+[]\T2A/cmr/m/n/17.28 План-график ра-бо-ты   5
+ []
+
+
+Overfull \hbox (45.39384pt too wide) in paragraph at lines 62--64
+\T2A/cmr/m/n/17.28 3. Ход ра-бо-ты   8
+ []
+
+
+Overfull \hbox (47.23186pt too wide) in paragraph at lines 65--66
+\T2A/cmr/m/n/17.28 4. Ли-те-ра-ту-ра   10 
+ []
+
+[2]
+Overfull \hbox (12.13008pt too wide) in paragraph at lines 68--68
 []\T2A/cmr/bx/n/14.4 Актуальность, тео-ре-ти-че-ская и прак-ти-че-ская зна-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
 (C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+Overfull \hbox (12.61237pt too wide) in paragraph at lines 86--87
+\T2A/cmr/m/n/17.28 Наш про-ект поз-во-лит про-де-мон-стри-ро-вать груп-
+ []
+
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-33.def
+File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
+)
+Overfull \hbox (90.15146pt too wide) in paragraph at lines 90--101
+[] 
+ []
+
+[3]
+Overfull \hbox (20.46802pt too wide) in paragraph at lines 108--109
+[]\T2A/cmr/m/n/17.28 Изучение ин-стру-мен-тов и мак-ро-па-ке-тов ТеХ'а 
+ []
+
+
+Overfull \hbox (12.11594pt too wide) in paragraph at lines 110--111
+[]\T2A/cmr/m/n/17.28 Получение на-вы-ков верст-ки тек-ста в LaTeX'е 
+ []
+
+
+Overfull \hbox (8.51263pt too wide) in paragraph at lines 112--113
+[]\T2A/cmr/m/n/17.28 Создание от-че-та по про-ек-ту в си-сте-ме LaTeX 
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 130--131
+[]\T2A/cmr/m/n/17.28 Начало ра-бо-ты над прак-ти-че-
+ []
+
+
+Underfull \hbox (badness 3492) in paragraph at lines 132--133
+[]\T2A/cmr/m/n/17.28 Изучение от-дель-ных ас-пек-тов
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+\T2A/cmr/m/n/17.28 ко-то-рая бы де-мон-стри-ро-ва-ла
+ []
+
+
+Overfull \hbox (0.21237pt too wide) in paragraph at lines 124--144
+[] 
+ []
+
+[4]
+Overfull \hbox (0.65472pt too wide) in paragraph at lines 146--147
+\T2A/cmr/m/n/17.28 раз-ра-бо-тан пре-сле-дуя две ос-нов-ные це-ли: - поз-
+ []
+
+
+Overfull \hbox (35.16956pt too wide) in paragraph at lines 146--147
+\T2A/cmr/m/n/17.28 ции с ра-зум-ны-ми для это-го уси-ли-я-ми. T[]Xзнаменит
+ []
+
+
+Overfull \hbox (4.04686pt too wide) in paragraph at lines 146--147
+\T2A/cmr/m/n/17.28 сво-ей чрез-вы-чай-ной ста-биль-но-стью, ра-бо-той на
+ []
+
+
+Overfull \hbox (3.14807pt too wide) in paragraph at lines 146--147
+\T2A/cmr/m/n/17.28 оформ-ле-ния на-уч-ных ра-бот за-клю-ча-ет-ся в том,
+ []
+
+[5]
+Overfull \hbox (2.23299pt too wide) in paragraph at lines 149--150
+\T2A/cmr/m/n/17.28 пью-тер-ной вјрст-ки TeX, ко-то-рый об-лег-ча-ет на-
+ []
+
+
+Overfull \hbox (36.81953pt too wide) in paragraph at lines 149--150
+\T2A/cmr/m/n/17.28 бор слож-ных до-ку-мен-тов. Пер-вая вер-сия L[]T[]Xбыла
+ []
+
+
+Overfull \hbox (5.38904pt too wide) in paragraph at lines 149--150
+\T2A/cmr/m/n/17.28 T[]X'а не мо-жет рас-ши-рить T[]X'овских воз-мож-
+ []
+
+
+Overfull \hbox (2.89902pt too wide) in paragraph at lines 149--150
+\T2A/cmr/m/n/17.28 но-стей (всј, что мож-но сде-лать в LaTeX'е, мож-
+ []
+
+
+Overfull \hbox (0.66052pt too wide) in paragraph at lines 149--150
+\T2A/cmr/m/n/17.28 тов за-ча-стую поз-во-ля-ет из-бе-жать весь-ма изощ-
+ []
+
+[6] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
 
  []
 
-[2] [3] (Otchet.aux) ) 
+
+Overfull \hbox (8.44955pt too wide) in paragraph at lines 167--168
+\T2A/cmr/m/n/17.28 Презентация и от-чет о L[]T[]X, со-здан-ные в L[]T[]X. 
+ []
+
+
+Overfull \hbox (22.20253pt too wide) in paragraph at lines 174--175
+[]\T2A/cmr/m/n/17.28 Изучили на-бор ма-те-ма-ти-че-ских фор-мул (строч-
+ []
+
+
+Overfull \hbox (13.973pt too wide) in paragraph at lines 174--175
+\T2A/cmr/m/n/17.28 ные и вы-ключ-ные фор-му-лы, дро-би, скоб-ки, стан-
+ []
+
+[8]
+Overfull \hbox (5.8395pt too wide) in paragraph at lines 180--181
+\T2A/cmr/m/n/17.28 Создали в PowerPoint шаб-лон пре-зен-та-ции, сло-
+ []
+
+
+Overfull \hbox (11.71852pt too wide) in paragraph at lines 186--187
+\T2A/cmr/m/n/17.28 зен-та-цию до-бав-ле-ны при-ме-ры ко-да фор-мул, гра-
+ []
+
+[9]
+Overfull \hbox (13.53778pt too wide) in paragraph at lines 198--199
+\T2A/cmr/m/n/17.28 (Introduction to LaTeX)ї на сай-те coursera.org
+ []
+
+
+Overfull \hbox (71.15575pt too wide) in paragraph at lines 198--199
+\T2A/cmr/m/n/17.28 - https://www.coursera.org/learn/latex/home/welcome 
+ []
+
+[10] (Otchet.aux) ) 
 Here is how much of TeX's memory you used:
- 4032 strings out of 479334
- 52105 string characters out of 2856609
- 352895 words of memory out of 3000000
- 21493 multiletter control sequences out of 15000+200000
- 411232 words of font info for 38 fonts, out of 3000000 for 9000
+ 4287 strings out of 479334
+ 55032 string characters out of 2856609
+ 356499 words of memory out of 3000000
+ 21731 multiletter control sequences out of 15000+200000
+ 418561 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,6n,74p,411b,667s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Dvojka\AppData\Local\MiKTeX\fonts/pk/ljfour/lh
-/lh-t2a/dpi600\lati1000.pk> <C:\Users\Dvojka\AppData\Local\MiKTeX\fonts/pk/ljfo
-ur/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Dvojka\AppData\Local\MiKTeX\fonts/pk
-/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\Dvojka\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Dvojka\AppData\Local\MiKTe
-X\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Dvojka\AppData\Local\
-MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0700.pk>
-Output written on Otchet.pdf (3 pages, 72585 bytes).
+ 67i,11n,74p,1644b,667s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Dvojka\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
+-t2a/dpi600\labx0800.pk> <C:\Users\Dvojka\AppData\Local\MiKTeX\fonts/pk/ljfour/
+lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Dvojka\AppData\Local\MiKTeX\fonts/pk/lj
+four/jknappen/ec/dpi600\tcrm1728.pk> <C:\Users\Dvojka\AppData\Local\MiKTeX\font
+s/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Dvojka\AppData\Local\MiKTeX
+\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1728.pk> <C:\Users\Dvojka\AppData\Local\M
+iKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1728.pk> <C:\Users\Dvojka\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Dvojka\AppDa
+ta\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\Dvojka\
+AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Dv
+ojka\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Use
+rs\Dvojka\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0700.pk>
+Output written on Otchet.pdf (10 pages, 146073 bytes).
 PDF statistics:
- 236 PDF objects out of 1000 (max. 8388607)
+ 430 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
