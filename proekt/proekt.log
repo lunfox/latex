@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.5.8)  24 MAY 2021 23:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.5.8)  25 MAY 2021 11:48
 entering extended mode
 **./proekt.tex
 (proekt.tex
@@ -1762,42 +1762,37 @@ Package pdftex.def Info: images//back.jpg  used on input line 292.
 ]
 File: images//back.jpg Graphic file (type jpg)
 <use images//back.jpg>
-Package pdftex.def Info: images//back.jpg  used on input line 310.
+Package pdftex.def Info: images//back.jpg  used on input line 312.
 (pdftex.def)             Requested size: 364.19696pt x 273.14505pt.
  [20
 
 ]
 File: images//back.jpg Graphic file (type jpg)
 <use images//back.jpg>
-Package pdftex.def Info: images//back.jpg  used on input line 337.
+Package pdftex.def Info: images//back.jpg  used on input line 342.
 (pdftex.def)             Requested size: 364.19696pt x 273.14505pt.
  [21
 
 ]
-Overfull \hbox (12.11784pt too wide) in paragraph at lines 350--350
-[]\T2A/cmss/m/n/14.4 \hyperlink[]{label}{[]\includegraphics[][scale=0.3]{kemsu}
-}  
- []
-
-<images//kemsu.png, id=449, 481.8pt x 283.5393pt>
+<images//kemsu.png, id=482, 481.8pt x 283.5393pt>
 File: images//kemsu.png Graphic file (type png)
 <use images//kemsu.png>
-Package pdftex.def Info: images//kemsu.png  used on input line 350.
+Package pdftex.def Info: images//kemsu.png  used on input line 359.
 (pdftex.def)             Requested size: 144.5411pt x 85.06244pt.
 File: images//back.jpg Graphic file (type jpg)
 <use images//back.jpg>
-Package pdftex.def Info: images//back.jpg  used on input line 350.
+Package pdftex.def Info: images//back.jpg  used on input line 359.
 (pdftex.def)             Requested size: 364.19696pt x 273.14505pt.
-[22
+ [22
 
  <./images//kemsu.png>]<<VPlayer.swf>><<kem.mp4>>
-Overfull \hbox (12.71013pt too wide) in paragraph at lines 364--364
+Overfull \hbox (12.71013pt too wide) in paragraph at lines 373--373
 [][][][][]  
  []
 
 File: images//back.jpg Graphic file (type jpg)
 <use images//back.jpg>
-Package pdftex.def Info: images//back.jpg  used on input line 364.
+Package pdftex.def Info: images//back.jpg  used on input line 373.
 (pdftex.def)             Requested size: 364.19696pt x 273.14505pt.
 [23
 
@@ -1811,7 +1806,7 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 )
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-374.
+383.
 
 (C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
@@ -1819,29 +1814,29 @@ File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 (programm.cpp)
 File: images//back.jpg Graphic file (type jpg)
 <use images//back.jpg>
-Package pdftex.def Info: images//back.jpg  used on input line 374.
+Package pdftex.def Info: images//back.jpg  used on input line 383.
 (pdftex.def)             Requested size: 364.19696pt x 273.14505pt.
  [24
 
 ]
-<images//background.jpg, id=517, 1541.76pt x 867.24pt>
+<images//background.jpg, id=550, 1541.76pt x 867.24pt>
 File: images//background.jpg Graphic file (type jpg)
 <use images//background.jpg>
-Package pdftex.def Info: images//background.jpg  used on input line 386.
+Package pdftex.def Info: images//background.jpg  used on input line 395.
 (pdftex.def)             Requested size: 364.19568pt x 273.14235pt.
  [25
 
  <./images//background.jpg>]
 File: images//back.jpg Graphic file (type jpg)
 <use images//back.jpg>
-Package pdftex.def Info: images//back.jpg  used on input line 401.
+Package pdftex.def Info: images//back.jpg  used on input line 410.
 (pdftex.def)             Requested size: 364.19696pt x 273.14505pt.
  [26
 
 ]
 File: images//back.jpg Graphic file (type jpg)
 <use images//back.jpg>
-Package pdftex.def Info: images//back.jpg  used on input line 405.
+Package pdftex.def Info: images//back.jpg  used on input line 414.
 (pdftex.def)             Requested size: 364.19696pt x 273.14505pt.
  [27
 
@@ -1859,32 +1854,41 @@ Package pdftex.def Info: images//back.jpg  used on input line 405.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `proekt.out' has not changed.
-(rerunfilecheck)             Checksum: F1E1ACAD374C93336750F653F22BB45C;2443.
+
+Package rerunfilecheck Warning: File `proekt.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `proekt.out':
+(rerunfilecheck)             Before: F1E1ACAD374C93336750F653F22BB45C;2443
+(rerunfilecheck)             After:  EA41DFAF0B770F6B61929F499F53692D;2429.
  ) 
 Here is how much of TeX's memory you used:
- 31369 strings out of 479334
- 585532 string characters out of 2866964
- 1096335 words of memory out of 3000000
- 47979 multiletter control sequences out of 15000+200000
+ 31382 strings out of 479334
+ 586073 string characters out of 2866964
+ 1096893 words of memory out of 3000000
+ 47991 multiletter control sequences out of 15000+200000
  431262 words of font info for 92 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,13n,132p,459b,1396s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt144
-0.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass
-2986.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
-ass0600.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
-0\lass0800.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dp
-i600\lass1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
-/dpi600\lass1000.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/jknapp
-en/ec/dpi600\tcss1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/l
-h/lh-t2a/dpi600\lass1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfou
-r/lh/lh-t2a/dpi600\lasx1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/lj
-four/lh/lh-t2a/dpi600\lasx2074.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk
-/ljfour/lh/lh-t2a/dpi600\lass2074.pk>
-Output written on proekt.pdf (27 pages, 10926020 bytes).
+pdfTeX warning (dest): name{Outline0.6.1.10} has been referenced but does not
+ exist, replaced by a fixed one
+
+ <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1440.
+pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass29
+86.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\las
+s0600.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\
+lass0800.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi6
+00\lass1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/d
+pi600\lass1000.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
+/ec/dpi600\tcss1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
+lh-t2a/dpi600\lass1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/
+lh/lh-t2a/dpi600\lasx1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfo
+ur/lh/lh-t2a/dpi600\lasx2074.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/l
+jfour/lh/lh-t2a/dpi600\lass2074.pk>
+Output written on proekt.pdf (27 pages, 10934728 bytes).
 PDF statistics:
- 907 PDF objects out of 1000 (max. 8388607)
- 75 named destinations out of 1000 (max. 500000)
- 804 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 941 PDF objects out of 1000 (max. 8388607)
+ 76 named destinations out of 1000 (max. 500000)
+ 906 words of extra memory for PDF output out of 10000 (max. 10000000)
 

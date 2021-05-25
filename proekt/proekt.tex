@@ -213,10 +213,10 @@
 	\end{itemize}
 \end{frame}
 
-\subsection{Beamer}
+\section{Beamer}
 
 \begin{frame}
-	\frametitle{\insertsubsection}
+	\frametitle{\insertsection}
 	\begin{itemize}
 		\item[\textbullet] Beamer - класс для \LaTeX'а,специально предназначенный для создания презентаций.
 		\item[\textbullet] Позволяет настраивать внешний вид, переходы и т.п.
@@ -299,51 +299,60 @@
 		Содержимое блока
 	\end{block}
 
+	\begin{block}{}
+		\cm{begin}\{block\}\{Название блока\}
+		
+		
+		Содержимое блока
+		
+		
+		\cm{end}\{block\}
+	\end{block}
 
-	\cm{begin}\{block\}\{Название блока\}
-	
-	
-	Содержимое блока
-	
-	
-	\cm{end}\{block\}
 \end{frame}
 
 \section{Таблицы}
 
 \begin{frame}
 	\frametitle{\insertsection}
-	\begin{flushleft}
-	\cm{begin}\{tabular\}\{|l|p{8,5cm}|\}
+	\begin{block}{}
+		\begin{flushleft}
+			\cm{begin}\{tabular\}\{|l|p{8,5cm}|\}
+			
+			
+			\cm{hline}
+			
+			
+			18.02 \& Распределение ролей, создание удаленного репозитория, составление календарного плана \textbackslash\textbackslash
+			
+			
+			\cm{hline}
+			
+			
+			...
+			
+			
+			\cm{end}\{tabular\}
+			
+			
+			\hyperlink{tab}{\beamerbutton{Посмотреть таблицу}}
+		\end{flushleft}
+	\end{block}
 	
-	
-		\cm{hline}
-		
-		
-		18.02 \& Распределение ролей, создание удаленного репозитория, составление календарного плана \textbackslash\textbackslash
-		
-		
-		\cm{hline}
-
-
-		...
-		
-		
-		\cm{end}\{tabular\}
-		
-		
-		\hyperlink{tab}{\beamerbutton{Посмотреть таблицу}}
-	\end{flushleft}
 \end{frame}
 
 \section{Ссылки, кнопки, рисунки}
 
 \begin{frame} \label{button}
 	\frametitle{\insertsection}
-	\cm{hyperlink}\{label\}\{\cm{beamerbutton}\{Кнопка\}\}
-	
-	
-	\cm{hyperlink}\{label\}\{\cm{includegraphics}[scale=0.3]\{kemsu\}\}
+	\begin{block}{}
+		\cm{hyperlink}\{label\}\{\cm{beamerbutton}\{Кнопка\}\}
+		
+		
+		\cm{hyperlink}\{label\}\{
+		
+		\cm{includegraphics}[scale=0.3]\{kemsu\}\}
+	\end{block}
 	
 	
 	\centering\hyperlink{video}{\includegraphics[scale=0.3]{kemsu}}

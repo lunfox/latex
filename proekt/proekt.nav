@@ -30,61 +30,62 @@
 \headcommand {\sectionentry {6}{Зачем использовать \TeX \: для создания презентаций?}{9}{Зачем использовать \TeX \: для создания презентаций?}{0}}
 \headcommand {\slideentry {6}{0}{1}{9/9}{}{0}}
 \headcommand {\beamer@framepages {9}{9}}
+\headcommand {\beamer@sectionpages {9}{9}}
 \headcommand {\beamer@subsectionpages {9}{9}}
-\headcommand {\beamer@subsectionentry {0}{6}{1}{10}{Beamer}}
-\headcommand {\slideentry {6}{1}{1}{10/10}{Beamer}{0}}
+\headcommand {\sectionentry {7}{Beamer}{10}{Beamer}{0}}
+\headcommand {\slideentry {7}{0}{1}{10/10}{}{0}}
 \headcommand {\beamer@framepages {10}{10}}
-\headcommand {\beamer@sectionpages {9}{10}}
+\headcommand {\beamer@sectionpages {10}{10}}
 \headcommand {\beamer@subsectionpages {10}{10}}
-\headcommand {\sectionentry {7}{Титульный слайд}{11}{Титульный слайд}{0}}
-\headcommand {\slideentry {7}{0}{1}{11/11}{}{0}}
+\headcommand {\sectionentry {8}{Титульный слайд}{11}{Титульный слайд}{0}}
+\headcommand {\slideentry {8}{0}{1}{11/11}{}{0}}
 \headcommand {\beamer@framepages {11}{11}}
 \headcommand {\beamer@sectionpages {11}{11}}
 \headcommand {\beamer@subsectionpages {11}{11}}
-\headcommand {\sectionentry {8}{Frame'ы}{12}{Frame'ы}{0}}
-\headcommand {\slideentry {8}{0}{1}{12/12}{}{0}}
+\headcommand {\sectionentry {9}{Frame'ы}{12}{Frame'ы}{0}}
+\headcommand {\slideentry {9}{0}{1}{12/12}{}{0}}
 \headcommand {\beamer@framepages {12}{12}}
 \headcommand {\beamer@sectionpages {12}{12}}
 \headcommand {\beamer@subsectionpages {12}{12}}
-\headcommand {\sectionentry {9}{Overlay'и}{13}{Overlay'и}{0}}
-\headcommand {\slideentry {9}{0}{1}{13/19}{}{0}}
+\headcommand {\sectionentry {10}{Overlay'и}{13}{Overlay'и}{0}}
+\headcommand {\slideentry {10}{0}{1}{13/19}{}{0}}
 \headcommand {\beamer@framepages {13}{19}}
 \headcommand {\beamer@sectionpages {13}{19}}
 \headcommand {\beamer@subsectionpages {13}{19}}
-\headcommand {\sectionentry {10}{Блоки}{20}{Блоки}{0}}
-\headcommand {\slideentry {10}{0}{1}{20/20}{}{0}}
+\headcommand {\sectionentry {11}{Блоки}{20}{Блоки}{0}}
+\headcommand {\slideentry {11}{0}{1}{20/20}{}{0}}
 \headcommand {\beamer@framepages {20}{20}}
 \headcommand {\beamer@sectionpages {20}{20}}
 \headcommand {\beamer@subsectionpages {20}{20}}
-\headcommand {\sectionentry {11}{Таблицы}{21}{Таблицы}{0}}
-\headcommand {\slideentry {11}{0}{1}{21/21}{}{0}}
+\headcommand {\sectionentry {12}{Таблицы}{21}{Таблицы}{0}}
+\headcommand {\slideentry {12}{0}{1}{21/21}{}{0}}
 \headcommand {\beamer@framepages {21}{21}}
 \headcommand {\beamer@sectionpages {21}{21}}
 \headcommand {\beamer@subsectionpages {21}{21}}
-\headcommand {\sectionentry {12}{Ссылки, кнопки, рисунки}{22}{Ссылки, кнопки, рисунки}{0}}
-\headcommand {\slideentry {12}{0}{1}{22/22}{}{0}}
+\headcommand {\sectionentry {13}{Ссылки, кнопки, рисунки}{22}{Ссылки, кнопки, рисунки}{0}}
+\headcommand {\slideentry {13}{0}{1}{22/22}{}{0}}
 \headcommand {\beamer@framepages {22}{22}}
 \headcommand {\beamer@sectionpages {22}{22}}
 \headcommand {\beamer@subsectionpages {22}{22}}
-\headcommand {\sectionentry {13}{Видео}{23}{Видео}{0}}
-\headcommand {\slideentry {13}{0}{1}{23/23}{}{0}}
+\headcommand {\sectionentry {14}{Видео}{23}{Видео}{0}}
+\headcommand {\slideentry {14}{0}{1}{23/23}{}{0}}
 \headcommand {\beamer@framepages {23}{23}}
 \headcommand {\beamer@sectionpages {23}{23}}
 \headcommand {\beamer@subsectionpages {23}{23}}
-\headcommand {\sectionentry {14}{Листинг кода}{24}{Листинг кода}{0}}
-\headcommand {\slideentry {14}{0}{1}{24/24}{}{0}}
+\headcommand {\sectionentry {15}{Листинг кода}{24}{Листинг кода}{0}}
+\headcommand {\slideentry {15}{0}{1}{24/24}{}{0}}
 \headcommand {\beamer@framepages {24}{24}}
 \headcommand {\beamer@sectionpages {24}{24}}
 \headcommand {\beamer@subsectionpages {24}{24}}
-\headcommand {\sectionentry {15}{Фон}{25}{Фон}{0}}
-\headcommand {\slideentry {15}{0}{1}{25/25}{}{0}}
+\headcommand {\sectionentry {16}{Фон}{25}{Фон}{0}}
+\headcommand {\slideentry {16}{0}{1}{25/25}{}{0}}
 \headcommand {\beamer@framepages {25}{25}}
 \headcommand {\beamer@sectionpages {25}{25}}
 \headcommand {\beamer@subsectionpages {25}{25}}
-\headcommand {\sectionentry {16}{Свои команды}{26}{Свои команды}{0}}
-\headcommand {\slideentry {16}{0}{1}{26/26}{}{0}}
+\headcommand {\sectionentry {17}{Свои команды}{26}{Свои команды}{0}}
+\headcommand {\slideentry {17}{0}{1}{26/26}{}{0}}
 \headcommand {\beamer@framepages {26}{26}}
-\headcommand {\slideentry {16}{0}{2}{27/27}{}{0}}
+\headcommand {\slideentry {17}{0}{2}{27/27}{}{0}}
 \headcommand {\beamer@framepages {27}{27}}
 \headcommand {\beamer@partpages {1}{27}}
 \headcommand {\beamer@subsectionpages {26}{27}}
