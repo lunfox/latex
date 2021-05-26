@@ -2,6 +2,8 @@
 %\documentclass[handout]{beamer} %раздаточный материал
 %\documentclass[aspectratio=169]{beamer}
 
+\hypersetup{pdfpagemode=FullScreen}
+
 %%% Работа с русским языком
 \usepackage{cmap} %поиск в PDF
 \usepackage{mathtext} %русские буквы в формулах
@@ -88,9 +90,9 @@
 \usetheme{Rochester} %тема оформления
 
 %beamer theme matrix
-\usecolortheme{whale}
+%\usecolortheme{whale}
 
-\usebackgroundtemplate{\includegraphics[width=\paperwidth,height=\paperheight]{back.jpg}}
+\usecolortheme{dolphin}
 
 \setbeamertemplate{blocks}[rounded][shadow=true]
 
@@ -117,27 +119,30 @@
 \section{Цели}
 
 \begin{frame}
+	\transdissolve<1>[duration=1]
 	\frametitle{\insertsection}
 	\begin{itemize}
-		\item[\textbullet] Научиться делать документы с высококачественной версткой текста и формул
-		\item[\textbullet] Продемонстрировать группе возможности \LaTeX'а
+		\item[\textbullet] Научиться делать документы с высококачественной версткой текста и формул.
+		\item[\textbullet] Продемонстрировать группе возможности \LaTeX'а.
 	\end{itemize}
 \end{frame}
 
 \section{Задачи}
 
 \begin{frame}
+	\transblindshorizontal<1>[duration=1]
 	\frametitle{\insertsection}
 	\begin{itemize}
-		\item[\textbullet] Изучение инструментов и макропакетов \TeX’а
-		\item[\textbullet] Получение навыков верстки текста в \LaTeX'е
-		\item[\textbullet] Создание отчета по проекту в системе \LaTeX
+		\item[\textbullet] Изучение инструментов и макропакетов \TeX’а.
+		\item[\textbullet] Получение навыков верстки текста в \LaTeX'е.
+		\item[\textbullet] Создание отчета по проекту в системе \LaTeX.
 	\end{itemize}
 \end{frame}
 
 \section{Индивидуальные задачи}
 
 \begin{frame}
+	\transblindsvertical<1>[duration=1]
 	\frametitle{\insertsection}
 	\begin{enumerate}
 		\item[\textbullet]<1-> \textbf{Панчишин Даниил} - Тим-лид, создание тех задания, работа в \LaTeX’е с мат. формулами, рисунками и графиками;
@@ -149,6 +154,7 @@
 \section{Календарный план}
 
 \begin{frame} \label{tab}
+	\transboxin<1>[duration=1]
 	\frametitle{\insertsection}
 	\small{
 	\begin{tabular}{|l|p{8,5cm}|}
@@ -156,26 +162,22 @@
 		\rowcolor{Mycolor1}
 		18.02 & Распределение ролей, создание удаленного репозитория, составление календарного плана \\
 		\hline
-		\rowcolor{Mycolor2}
 		4.03 & Изучение общего теоретического материала \\
 		\hline
 		\rowcolor{Mycolor1}
 		18.03 & Начало работы над практической частью проекта \\
 		\hline
-		\rowcolor{Mycolor2}
 		01.04 & Изучение отдельных аспектов \LaTeX’а, распределенных по ролям \\
 		\hline
 		\rowcolor{Mycolor1}
 		15.04 & Создание презентации в \LaTeX, которая бы демонстрировала изученные навыки \\
 		\hline
-		\rowcolor{Mycolor2}
 		29.04 & Создание отчета в \LaTeX, который бы демонстрировал изученные навыки
 		\\
 		\hline
 		\rowcolor{Mycolor1}
 		13.05 & Презентация результатов работы над проектом \\
 		\hline
-		\rowcolor{Mycolor2}
 		27.05-31.05 & Защита проекта \\
 		\hline
 	\end{tabular}
@@ -186,6 +188,7 @@
 \section{Используемые средства}
 
 \begin{frame}
+	\transboxout<1>[duration=1]
 	\frametitle{\insertsection}
 \begin{figure}[h]
 	\begin{center}
@@ -205,20 +208,22 @@
 \section{Зачем использовать \TeX \: для создания презентаций?}
 
 \begin{frame}
+	\transglitter<1>[duration=1]
 	\frametitle{\insertsection}
 	\begin{itemize}
-		\item[\textbullet] На слайдах отображаетя материал, набранный изначально в \LaTeX'е. 
-		\item[\textbullet] На слайдах много формул.
-		\item[\textbullet] Вам не хочется думать о переносимости файлов PowerPoint между различными версиями / компьютерами. Готовый файл pdf отображается везде. 
+		\item[\textbullet] Использование материала, набранного изначально в \LaTeX'е. 
+		\item[\textbullet] Много сложных формул.
+		\item[\textbullet] Переносимость и доступность. 
 	\end{itemize}
 \end{frame}
 
 \section{Beamer}
 
 \begin{frame}
+	\transsplithorizontalin<1>[duration=1]
 	\frametitle{\insertsection}
 	\begin{itemize}
-		\item[\textbullet] Beamer - класс для \LaTeX'а,специально предназначенный для создания презентаций.
+		\item[\textbullet] Beamer - класс для \LaTeX'а, предназначенный для создания презентаций.
 		\item[\textbullet] Позволяет настраивать внешний вид, переходы и т.п.
 	\end{itemize}
 	\begin{block}{}
@@ -229,6 +234,7 @@
 \section{Титульный слайд}
 
 \begin{frame}
+	\transsplitverticalin<1>[duration=1]
 	\frametitle{\insertsection}
 	\begin{block}{Преамбула}
 		\cm{title}[short title]\{long title\}
@@ -253,6 +259,7 @@
 \section{Frame'ы}
 
 \begin{frame}
+	\transsplithorizontalout<1>[duration=1]
 	\frametitle{\insertsection}
 	\begin{block}{Один кадр}
 		\cm{begin}\{frame\}
@@ -268,6 +275,7 @@
 \section{Overlay'и}
 
 \begin{frame}
+	\transsplitverticalout<1>[duration=1]
 	\frametitle{\insertsection}
 		\begin{block}{Примеры overlay'ев}
 			\pause \cm{pause}
@@ -294,6 +302,7 @@
 \section{Блоки}
 
 \begin{frame}
+	\transwipe<1>[duration=1]
 	\frametitle{\insertsection}
 	\begin{block}{Название блока}
 		Содержимое блока
@@ -314,6 +323,7 @@
 \section{Таблицы}
 
 \begin{frame}
+	\transwipe<1>[duration=1]
 	\frametitle{\insertsection}
 	\begin{block}{}
 		\begin{flushleft}
@@ -344,6 +354,7 @@
 \section{Ссылки, кнопки, рисунки}
 
 \begin{frame} \label{button}
+	\transwipe<1>[duration=1]
 	\frametitle{\insertsection}
 	\begin{block}{}
 		\cm{hyperlink}\{label\}\{\cm{beamerbutton}\{Кнопка\}\}
@@ -361,6 +372,7 @@
 \section{Видео}
 
 \begin{frame} \label{video}
+	\transwipe<1>[duration=1]
 	\frametitle{\insertsection}
 	\includemedia[
 	activate=pageopen,
@@ -375,6 +387,7 @@
 \section{Листинг кода}
 
 \begin{frame}
+	\transwipe<1>[duration=1]
 	\frametitle{\insertsection}
 	\begin{block}{}
 		\cm{lstinputlisting}[language=C++]\{programm.cpp\}
@@ -387,6 +400,7 @@
 \section{Фон}
 
 \begin{frame}
+	\transwipe<1>[duration=1]
 	\frametitle{\insertsection}
 	\begin{block}{}
 		\cm{usebackgroundtemplate}\{
@@ -394,11 +408,34 @@
 	\end{block}
 \end{frame}
 
-\usebackgroundtemplate{\includegraphics[width=\paperwidth,height=\paperheight]{back.jpg}}
+\usebackgroundtemplate{}
+
+\section{Анимация переходов}
+
+\begin{frame}
+	\transwipe<1>[duration=1]
+	\frametitle{\insertsection}
+	\begin{block}{}
+		\cm{transdissolve}<слайды>[параметры]
+		
+		
+		\cm{transblindshorizontal}<слайды>[параметры]
+		
+		
+		\cm{transblindsvertical}<слайды>[параметры]
+		
+		
+		\cm{transboxin}<слайды>[параметры]
+		
+		
+		\cm{transboxout}<слайды>[параметры]
+	\end{block}
+\end{frame}
 
 \section{Свои команды}
 
 \begin{frame}
+	\transwipe<1>[duration=1]
 	\frametitle{\insertsection}
 	\begin{block}{}
 		\cm{newcommand}\{\textbackslash имя\}[число]\{действия\}
@@ -409,7 +446,26 @@
 	\end{block}
 \end{frame}
 
-\begin{frame}
-	\frametitle{Итоговый результат}
+\begin{frame}[allowframebreaks]{}
+	\transwipe<1>[duration=1]
+	\begin{block}{}
+		\cm{tableofcontents} \%[allowframebreaks]
+	\end{block}
+	\frametitle{Содержание}
+	\tableofcontents
 \end{frame}
+
+\section{Итоговый результат}
+
+\begin{frame}
+	\transwipe<1>[duration=1]
+	\frametitle{\insertsection}
+\end{frame}
+
+\begin{frame}
+	\transwipe<1>[duration=1]
+	\centering
+	\LARGE{Спасибо за внимание!}
+\end{frame}
+
 \end{document}

@@ -15,4 +15,6 @@
 \beamer@sectionintoc {14}{Видео}{23}{0}{14}
 \beamer@sectionintoc {15}{Листинг кода}{24}{0}{15}
 \beamer@sectionintoc {16}{Фон}{25}{0}{16}
-\beamer@sectionintoc {17}{Свои команды}{26}{0}{17}
+\beamer@sectionintoc {17}{Анимация переходов}{26}{0}{17}
+\beamer@sectionintoc {18}{Свои команды}{27}{0}{18}
+\beamer@sectionintoc {19}{Итоговый результат}{30}{0}{19}
