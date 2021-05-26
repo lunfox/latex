@@ -48,4 +48,14 @@
 		\end{axis}
 	\end{tikzpicture}
 	
+	\begin{tikzpicture}
+		\begin{axis}[
+			title = 3D model,
+			view={110}{10}, 
+			colormap/greenyellow,
+			]
+			\addplot3[surf] {-sin(x^4 + y^4)};
+		\end{axis}
+	\end{tikzpicture}
+
 \end{document}
