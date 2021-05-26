@@ -1,0 +1,30 @@
+\documentclass{article}
+\usepackage[russian]{babel}
+\usepackage{amssymb,amsmath}
+\usepackage{pgfplots}
+
+\begin{document}
+	
+	\begin{tikzpicture}
+		\begin{axis}[
+			title = Exponenta,
+			xlabel = {$x$},
+			ylabel = {$y$},
+			minor tick num = 2
+			]
+			\addplot[blue] {e^x};
+		\end{axis}
+	\end{tikzpicture}
+	
+	\begin{tikzpicture}
+		\begin{axis}[
+			title = Парабола,
+			xlabel = {$x$},
+			ylabel = {$y$},
+			minor tick num = 2
+			]
+			\addplot[magenta] {x^2};
+		\end{axis}
+	\end{tikzpicture}
+	
+\end{document}
