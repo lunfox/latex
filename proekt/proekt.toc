@@ -8,13 +8,13 @@
 \beamer@sectionintoc {7}{Beamer}{10}{0}{7}
 \beamer@sectionintoc {8}{Титульный слайд}{11}{0}{8}
 \beamer@sectionintoc {9}{Frame'ы}{12}{0}{9}
-\beamer@sectionintoc {10}{Overlay'и}{13}{0}{10}
-\beamer@sectionintoc {11}{Блоки}{20}{0}{11}
-\beamer@sectionintoc {12}{Таблицы}{21}{0}{12}
-\beamer@sectionintoc {13}{Ссылки, кнопки, рисунки}{22}{0}{13}
-\beamer@sectionintoc {14}{Видео}{23}{0}{14}
-\beamer@sectionintoc {15}{Листинг кода}{24}{0}{15}
-\beamer@sectionintoc {16}{Фон}{25}{0}{16}
+\beamer@sectionintoc {10}{Оформление}{13}{0}{10}
+\beamer@sectionintoc {11}{Overlay'и}{14}{0}{11}
+\beamer@sectionintoc {12}{Блоки}{21}{0}{12}
+\beamer@sectionintoc {13}{Таблицы}{22}{0}{13}
+\beamer@sectionintoc {14}{Ссылки, кнопки, рисунки}{23}{0}{14}
+\beamer@sectionintoc {15}{Видео}{24}{0}{15}
+\beamer@sectionintoc {16}{Листинг кода}{25}{0}{16}
 \beamer@sectionintoc {17}{Анимация переходов}{26}{0}{17}
 \beamer@sectionintoc {18}{Свои команды}{27}{0}{18}
 \beamer@sectionintoc {19}{Итоговый результат}{30}{0}{19}

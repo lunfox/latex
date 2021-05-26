@@ -92,7 +92,7 @@
 %beamer theme matrix
 %\usecolortheme{whale}
 
-\usecolortheme{dolphin}
+\usecolortheme{seahorse}
 
 \setbeamertemplate{blocks}[rounded][shadow=true]
 
@@ -272,6 +272,28 @@
 	\end{block}
 \end{frame}
 
+\usebackgroundtemplate{\includegraphics[width=\paperwidth,height=\paperheight]{background.jpg}}
+
+\section{Оформление}
+
+\begin{frame}
+	\transwipe<1>[duration=1]
+	\frametitle{\insertsection}
+	\begin{block}{}
+		\cm{usetheme}\{Тема\}
+		
+		
+		\cm{usecolortheme}\{Цветовая схема\}\\ 
+		\cm{usebackgroundtemplate}\{
+		\cm{includegraphics}\{background.jpg\}\}
+	\end{block}
+	\centering\href{https://hartwork.org/beamer-theme-matrix/}{
+		\colorbox{pink}{Все встроенные темы Beamer}
+	}
+\end{frame}
+
+\usebackgroundtemplate{}
+
 \section{Overlay'и}
 
 \begin{frame}
@@ -322,7 +344,7 @@
 
 \section{Таблицы}
 
-\begin{frame}
+\begin{frame} \label{button}
 	\transwipe<1>[duration=1]
 	\frametitle{\insertsection}
 	\begin{block}{}
@@ -353,7 +375,7 @@
 
 \section{Ссылки, кнопки, рисунки}
 
-\begin{frame} \label{button}
+\begin{frame} 
 	\transwipe<1>[duration=1]
 	\frametitle{\insertsection}
 	\begin{block}{}
@@ -394,21 +416,6 @@
 	\end{block}
 	\lstinputlisting[language=C++]{programm.cpp}
 \end{frame}
-
-\usebackgroundtemplate{\includegraphics[width=\paperwidth,height=\paperheight]{background.jpg}}
-
-\section{Фон}
-
-\begin{frame}
-	\transwipe<1>[duration=1]
-	\frametitle{\insertsection}
-	\begin{block}{}
-		\cm{usebackgroundtemplate}\{
-		\cm{includegraphics}\{background.jpg\}\}
-	\end{block}
-\end{frame}
-
-\usebackgroundtemplate{}
 
 \section{Анимация переходов}
 

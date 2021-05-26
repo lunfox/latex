@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.5.8)  26 MAY 2021 17:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.5.8)  26 MAY 2021 18:39
 entering extended mode
 **./proekt.tex
 (proekt.tex
@@ -1251,8 +1251,8 @@ es.sty)
 y)
 (C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamercolorthemeorchid.s
 ty))
-(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamercolorthemedolphin.
-sty) (proekt.aux)
+(C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/beamer\beamercolorthemeseahorse
+.sty) (proekt.aux)
 \openout1 = `proekt.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
@@ -1653,9 +1653,15 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 ] [12
 
-] [13
+]
+<images//background.jpg, id=322, 1541.76pt x 867.24pt>
+File: images//background.jpg Graphic file (type jpg)
+<use images//background.jpg>
+Package pdftex.def Info: images//background.jpg  used on input line 293.
+(pdftex.def)             Requested size: 364.19568pt x 273.14235pt.
+ [13
 
-] [14
+ <./images//background.jpg>] [14
 
 ] [15
 
@@ -1665,26 +1671,29 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 ] [18
 
-] [19
+]
+[19
 
 ] [20
 
 ] [21
 
+] [22
+
 ]
-<images//kemsu.png, id=489, 481.8pt x 283.5393pt>
+<images//kemsu.png, id=510, 481.8pt x 283.5393pt>
 File: images//kemsu.png Graphic file (type png)
 <use images//kemsu.png>
-Package pdftex.def Info: images//kemsu.png  used on input line 370.
+Package pdftex.def Info: images//kemsu.png  used on input line 392.
 (pdftex.def)             Requested size: 144.5411pt x 85.06244pt.
- [22
+ [23
 
  <./images//kemsu.png>]<<VPlayer.swf>><<kem.mp4>>
-Overfull \hbox (12.71013pt too wide) in paragraph at lines 385--385
+Overfull \hbox (12.71013pt too wide) in paragraph at lines 407--407
 [][][][][]  
  []
 
-[23
+[24
 
 ] (C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
@@ -1696,27 +1705,18 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 )
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-396.
+418.
 
 (C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-(programm.cpp) [24
+(programm.cpp) [25
 
-]
-<images//background.jpg, id=557, 1541.76pt x 867.24pt>
-File: images//background.jpg Graphic file (type jpg)
-<use images//background.jpg>
-Package pdftex.def Info: images//background.jpg  used on input line 409.
-(pdftex.def)             Requested size: 364.19568pt x 273.14235pt.
- [25
-
- <./images//background.jpg>] [26
+] [26
 
 ] [27
 
-] (proekt.toc)
-[28
+] (proekt.toc) [28
 
 ] [29
 
@@ -1740,13 +1740,13 @@ Package pdftex.def Info: images//background.jpg  used on input line 409.
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `proekt.out' has not changed.
-(rerunfilecheck)             Checksum: B72BFA1F1700BBC746F188365E19B74F;2807.
+(rerunfilecheck)             Checksum: BA89F14FFD312FE36FF0FB9AA8FD472D;2863.
  ) 
 Here is how much of TeX's memory you used:
- 31457 strings out of 479334
- 588070 string characters out of 2866964
- 1097669 words of memory out of 3000000
- 48051 multiletter control sequences out of 15000+200000
+ 31463 strings out of 479334
+ 588344 string characters out of 2866964
+ 1098122 words of memory out of 3000000
+ 48057 multiletter control sequences out of 15000+200000
  432084 words of font info for 93 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,13n,132p,459b,1430s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1763,9 +1763,9 @@ r/lh/lh-t2a/dpi600\lass1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/lj
 four/lh/lh-t2a/dpi600\lasx1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk
 /ljfour/lh/lh-t2a/dpi600\lasx2074.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts
 /pk/ljfour/lh/lh-t2a/dpi600\lass2074.pk>
-Output written on proekt.pdf (31 pages, 10912327 bytes).
+Output written on proekt.pdf (31 pages, 10914179 bytes).
 PDF statistics:
- 1045 PDF objects out of 1200 (max. 8388607)
+ 1050 PDF objects out of 1200 (max. 8388607)
  85 named destinations out of 1000 (max. 500000)
- 983 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 989 words of extra memory for PDF output out of 10000 (max. 10000000)
 
