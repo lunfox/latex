@@ -100,6 +100,9 @@
 
 \newcommand{\cm}[1]{{\color{Mycolor3}\textbackslash#1}}
 
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.9}
+
 %%%Заголовок
 \author[]{Панчишин Д.И.
 \and Носков Р.И.
@@ -460,6 +463,250 @@
 	\end{block}
 	\frametitle{Содержание}
 	\tableofcontents
+\end{frame}
+
+\section{Формулы}
+
+\begin{frame}
+	\transwipe<1>[duration=1]
+	\frametitle{\insertsection}
+	\begin{block}{}
+		\$\cm{sum}\_\{i=1\}\string^n n\string^2=\cm{frac}\{n(n+1)(2n+1)(\cm{sqrt}\{x\string^3\})\}\{\cm{left}| |x+1|-|x-1|\cm{right}|\}\$
+	\end{block}
+	\LARGE$\sum_{i=1}^n n^2=\frac{n(n+1)(2n+1)(\sqrt{x^3})}{\left| |x+1|-|x-1|\right|}$
+\end{frame}
+
+\begin{frame}
+	\transwipe<1>[duration=1]
+	\frametitle{\insertsection}
+	\begin{block}{}
+		\$\cm{varlimsup}\_\{n\cm{to}\cm{infty}\}
+		a\_n=\cm{inf}\_n\cm{sup}\_\{m\cm{ge} n\}a\_m\$
+	\end{block}
+		\LARGE$\varlimsup_{n\to\infty}
+a_n=\inf_n\sup_{m\ge n}a_m$
+\end{frame}
+
+\begin{frame}
+	\transwipe<1>[duration=1]
+	\frametitle{\insertsection}
+	\begin{block}{}
+		\$\cm{boxed}\{
+			\cm{iint}\_\{\cm{mathbb} R\string^2\}
+			e\string^\{-(x\string^2+y\string^2)\}\,dx\,dy=\cm{pi}
+		\}\$
+	\end{block}
+	\LARGE$\boxed{
+		\iint_{\mathbb R^2}
+		e^{-(x^2+y^2)}\,dx\,dy=\pi
+	}$
+\end{frame}
+
+\section{Матрицы}
+
+\begin{frame}
+	\transwipe<1>[duration=1]
+	\frametitle{\insertsection}
+	\begin{block}{}
+		\cm{begin}\{pmatrix\}
+		
+		
+		...
+		
+		
+		\cm{end}\{pmatrix\}
+	\end{block}
+	\LARGE$\begin{pmatrix}
+		a_{11}-\lambda & a_{12}&a_{13}\\
+		a_{21}& a_{22}-\lambda &a_{23}\\
+		a_{31}& a_{32}&a_{33}-\lambda
+	\end{pmatrix}$
+\end{frame}
+
+\begin{frame}
+	\transwipe<1>[duration=1]
+	\frametitle{\insertsection}
+	\begin{block}{}
+		\cm{setcounter}\{MaxMatrixCols\}\{20\}
+		
+		
+		\cm{begin}\{matrix\}
+		
+		
+		...
+		
+		
+		\cm{end}\{matrix\}
+	\end{block}
+	\[
+	\setcounter{MaxMatrixCols}{20}
+	\begin{matrix}
+		&&&&&& 1\\
+		&&&&& 1 && 1\\
+		&&&& 1 && 2 && 1\\
+		&&& 1 && 3 && 3 && 1\\
+		&& 1 && 4 && 6 && 4 && 1\\
+		&1 && 5 && 10 && 10 && 5 && 1
+	\end{matrix}
+	\]
+\end{frame}
+
+\section{Псевдорисунки}
+
+\begin{frame}
+	\transwipe<1>[duration=1]
+	\frametitle{\insertsection}
+\begin{figure}[h]
+	\begin{center}
+		\begin{minipage}[h]{0.4\linewidth}
+\begin{tikzpicture}
+	%Цветные квадраты
+	\fill[red] (0,0) rectangle (3,3);
+	\fill[blue] (3,3) rectangle (4,4);
+	\fill[green] (0,3) rectangle (3,4);
+	\fill[green] (3,0) rectangle (4,3);
+	%Надписи снаружи
+	\path (0,0) -- node[left] {$a$} (0,3) --
+	node[left] {$b$} (0,4);
+	\path (0,0) -- node[below=3pt] {$a$} (3,0) --
+	node[below] {$b$} (4,0);
+	\node[circle,fill=white,inner sep=2pt]
+	%Надписи внутри
+	at (1.5,1.5) {$a^2$};
+	\node[circle,fill=white,inner sep=2pt]
+	at (3.5,3.5) {$b^2$};
+	\node[circle,fill=white,inner sep=2pt]
+	at (1.5,3.5) {$a\cdot b$};
+	\node[circle,fill=white,inner sep=2pt,rotate=90]
+	at (3.5,1.5) {$a\cdot b$};
+\end{tikzpicture}
+		\end{minipage}
+		\hfill											
+		\begin{minipage}[h]{0.4\linewidth}
+\begin{tikzpicture}
+	\draw[fill=green] (0,0) circle (1);
+	\fill[inner color=yellow, outer color=red] (1,1) circle (1);
+	\shade[ball color=blue] (2,2) circle (1);
+\end{tikzpicture}
+		\end{minipage}
+	\end{center}
+\end{figure}
+
+\end{frame}
+
+\begin{frame}
+	\transwipe<1>[duration=1]
+	\frametitle{\insertsection}
+	\begin{block}{}
+		\cm{begin}\{tikzpicture\}
+		
+		...
+		
+		\cm{end}\{tikzpicture\}
+		
+		\cm{fill}
+		
+		\cm{path}
+		
+		\cm{node}
+		
+		\cm{draw}
+		
+		\cm{shade}
+	\end{block}
+\end{frame}
+
+\begin{frame}
+	\transwipe<1>[duration=1]
+	\frametitle{\insertsection}
+	\[\begin{tikzpicture}
+		% Края доски:
+		\draw[very thick] (-5.5,0) -- (5.5,0) -- (5.5,5.5) -- (-5.5,5.5) -- cycle;
+		% Рисунок:
+		\draw[ultra thick, ->>, blue] (-4,1)--(4,4);
+		\draw[thick, ->, red] (-4,1)--(-4,4);
+		\draw[thick, ->, red] (-4,1)--(4,1);
+		\draw[dashed] (-4,4)--(4,4)--(4,1);
+		%Подписи:
+		\node at (-4.2,0.8) {\color{black} 0};
+		\node at (4,4.2) {\color{blue} End of line};
+		\node at (-4,4.2) {\color{red} End of line};
+		\node at (4,0.7) {\color{red} End of line};
+	\end{tikzpicture}
+	\]
+\end{frame}
+
+\begin{frame}
+	\transwipe<1>[duration=1]
+	\frametitle{\insertsection}
+	\includegraphics[scale=0.6]{str}
+\end{frame}
+
+\section{Графики}
+
+\begin{frame}
+	\transwipe<1>[duration=1]
+	\frametitle{\insertsection}
+	\centering
+	\begin{tikzpicture}
+		\begin{axis}[
+			title = Парабола,
+			%xlabel = {$x$},
+			%ylabel = {$y$},
+			minor tick num = 2
+			]
+			\addplot[magenta] {x^2};
+		\end{axis}
+	\end{tikzpicture}
+\end{frame}
+
+\begin{frame}
+	\transwipe<1>[duration=1]
+	\frametitle{\insertsection}
+	\centering
+	\begin{tikzpicture}
+		\begin{axis}[
+			title = Логарифм Х по основанию 2,
+			%xlabel = {$x$},
+			%ylabel = {$y$},
+			minor tick num = 2
+			]
+			\addplot {log2(x)};
+		\end{axis}
+	\end{tikzpicture}
+\end{frame}
+
+\begin{frame}
+	\transwipe<1>[duration=1]
+	\frametitle{\insertsection}
+	\centering
+	\begin{tikzpicture}
+		\begin{axis}[
+			title = 3D model,
+			view={110}{10}, 
+			colormap/greenyellow,
+			]
+			\addplot3[surf] {-sin(x^2 + y^2)};
+		\end{axis}
+	\end{tikzpicture}
+\end{frame}
+
+\begin{frame}
+	\transwipe<1>[duration=1]
+	\frametitle{\insertsection}
+	\begin{block}{}
+		\cm{begin}\{axis\}
+		
+		...
+		
+		\cm{end}\{axis\}
+		
+		\cm{addplot}[magenta] \{x\string^2\}
+		
+		\cm{addplot}\{log2(x)\}
+		
+		\cm{addplot}3[surf] \{-sin(x\string^2 + y\string^2)\};
+	\end{block}
 \end{frame}
 
 \section{Итоговый результат}
