@@ -17,4 +17,8 @@
 \beamer@sectionintoc {16}{Листинг кода}{25}{0}{16}
 \beamer@sectionintoc {17}{Анимация переходов}{26}{0}{17}
 \beamer@sectionintoc {18}{Свои команды}{27}{0}{18}
-\beamer@sectionintoc {19}{Итоговый результат}{30}{0}{19}
+\beamer@sectionintoc {19}{Формулы}{31}{0}{19}
+\beamer@sectionintoc {20}{Матрицы}{34}{0}{20}
+\beamer@sectionintoc {21}{Псевдорисунки}{36}{0}{21}
+\beamer@sectionintoc {22}{Графики}{40}{0}{22}
+\beamer@sectionintoc {23}{Итоговый результат}{44}{0}{23}
