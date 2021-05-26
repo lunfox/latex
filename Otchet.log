@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.17)  26 MAY 2021 19:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.17)  26 MAY 2021 19:32
 entering extended mode
 **./Otchet.tex
 (Otchet.tex
@@ -184,6 +184,9 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 \Gin@req@height=\dimen157
 \Gin@req@width=\dimen158
 )
+(C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
 (C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
 ftex.def
 File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
@@ -198,27 +201,27 @@ File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
 \openout1 = `Otchet.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
 
 (C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/ucs\ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
-LaTeX Info: Redefining \th on input line 11.
+LaTeX Info: Redefining \th on input line 12.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -285,18 +288,18 @@ File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 [1
 
 {C:/Users/Dvojka/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
-Overfull \hbox (23.87639pt too wide) in paragraph at lines 78--79
+Overfull \hbox (23.87639pt too wide) in paragraph at lines 81--82
 \T2A/cmr/m/n/17.28 Нам, как сту-ден-там, необ-хо-ди-мо зна-ние ре-дак-то-ра для
  оформ-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
 
@@ -306,50 +309,40 @@ File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 (C:\Users\Dvojka\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-33.def
 File: uni-33.def 2013/05/13 UCS: Unicode data U+2100..U+21FF
 )
-Overfull \hbox (1.53146pt too wide) in paragraph at lines 94--105
+Overfull \hbox (1.53146pt too wide) in paragraph at lines 97--108
 [] 
  []
 
 [3]
-Underfull \hbox (badness 1033) in paragraph at lines 134--135
-[]\T2A/cmr/m/n/17.28 Начало ра-бо-ты над прак-ти-че-
- []
-
-
-Underfull \hbox (badness 3492) in paragraph at lines 136--137
-[]\T2A/cmr/m/n/17.28 Изучение от-дель-ных ас-пек-тов
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
-\T2A/cmr/m/n/17.28 ко-то-рая бы де-мон-стри-ро-ва-ла
+Overfull \hbox (11.17702pt too wide) in paragraph at lines 131--151
+[] 
  []
 
 [4] [5]
-Overfull \hbox (17.09431pt too wide) in paragraph at lines 153--154
+Overfull \hbox (17.09431pt too wide) in paragraph at lines 156--157
 \T2A/cmr/m/n/17.28 T[]X'овских воз-мож-но-стей (всј, что мож-но сде-лать в LaTe
 X'е,
  []
 
 
-Overfull \hbox (21.08781pt too wide) in paragraph at lines 157--158
+Overfull \hbox (21.08781pt too wide) in paragraph at lines 160--161
 \T2A/cmr/m/n/17.28 Для то-го что-бы пи-сать L[]T[]Xна ПК под управ-ле-ни-ем Win
 dows
  []
 
 
-Overfull \hbox (33.79675pt too wide) in paragraph at lines 157--158
+Overfull \hbox (33.79675pt too wide) in paragraph at lines 160--161
 \T2A/cmr/m/n/17.28 10 нам по-на-до-бит-ся за-гру-зить и уста-но-вить TexStudio(
 редактор
  []
 
 
-Overfull \hbox (11.92471pt too wide) in paragraph at lines 157--158
+Overfull \hbox (11.92471pt too wide) in paragraph at lines 160--161
 \T2A/cmr/m/n/17.28 для со-зда-ния T[]Xдокументов), а так-же MikTex(дистрибутив
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 164--165
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
 
  []
 
@@ -357,10 +350,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 164--165
 <pictures//1.png, id=35, 1238.37656pt x 674.52pt>
 File: pictures//1.png Graphic file (type png)
 <use pictures//1.png>
-Package pdftex.def Info: pictures//1.png  used on input line 186.
+Package pdftex.def Info: pictures//1.png  used on input line 189.
 (pdftex.def)             Requested size: 433.62pt x 236.18846pt.
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 186--187
+Overfull \hbox (15.0pt too wide) in paragraph at lines 189--190
 [][] 
  []
 
@@ -368,20 +361,20 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 186--187
 <pictures//2.png, id=39, 1242.89343pt x 699.36281pt>
 File: pictures//2.png Graphic file (type png)
 <use pictures//2.png>
-Package pdftex.def Info: pictures//2.png  used on input line 189.
+Package pdftex.def Info: pictures//2.png  used on input line 192.
 (pdftex.def)             Requested size: 433.62pt x 243.99097pt.
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 189--190
+Overfull \hbox (15.0pt too wide) in paragraph at lines 192--193
 [][] 
  []
 
 <pictures//3.png, id=40, 927.465pt x 675.27281pt>
 File: pictures//3.png Graphic file (type png)
 <use pictures//3.png>
-Package pdftex.def Info: pictures//3.png  used on input line 192.
+Package pdftex.def Info: pictures//3.png  used on input line 195.
 (pdftex.def)             Requested size: 433.62pt x 315.71935pt.
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 192--193
+Overfull \hbox (15.0pt too wide) in paragraph at lines 195--196
 [][] 
  []
 
@@ -389,20 +382,20 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 192--193
 <pictures//4.png, id=44, 1158.57843pt x 692.5875pt>
 File: pictures//4.png Graphic file (type png)
 <use pictures//4.png>
-Package pdftex.def Info: pictures//4.png  used on input line 195.
+Package pdftex.def Info: pictures//4.png  used on input line 198.
 (pdftex.def)             Requested size: 433.62pt x 259.2124pt.
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 195--196
+Overfull \hbox (15.0pt too wide) in paragraph at lines 198--199
 [][] 
  []
 
 <pictures//5.png, id=45, 380.17032pt x 572.1375pt>
 File: pictures//5.png Graphic file (type png)
 <use pictures//5.png>
-Package pdftex.def Info: pictures//5.png  used on input line 198.
+Package pdftex.def Info: pictures//5.png  used on input line 201.
 (pdftex.def)             Requested size: 433.62pt x 652.59273pt.
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 198--199
+Overfull \hbox (15.0pt too wide) in paragraph at lines 201--202
 [][] 
  []
 
@@ -414,7 +407,7 @@ Overfull \vbox (74.43274pt too high) has occurred while \output is active []
 <pictures//6.png, id=52, 387.69844pt x 581.92406pt>
 File: pictures//6.png Graphic file (type png)
 <use pictures//6.png>
-Package pdftex.def Info: pictures//6.png  used on input line 201.
+Package pdftex.def Info: pictures//6.png  used on input line 204.
 (pdftex.def)             Requested size: 387.69748pt x 581.92264pt.
 
 Overfull \vbox (3.76265pt too high) has occurred while \output is active []
@@ -424,7 +417,7 @@ Overfull \vbox (3.76265pt too high) has occurred while \output is active []
 <pictures//7.png, id=56, 387.69844pt x 581.92406pt>
 File: pictures//7.png Graphic file (type png)
 <use pictures//7.png>
-Package pdftex.def Info: pictures//7.png  used on input line 204.
+Package pdftex.def Info: pictures//7.png  used on input line 207.
 (pdftex.def)             Requested size: 387.69748pt x 581.92264pt.
 
 Overfull \vbox (3.76265pt too high) has occurred while \output is active []
@@ -434,14 +427,14 @@ Overfull \vbox (3.76265pt too high) has occurred while \output is active []
 <pictures//8.png, id=61, 197.23688pt x 633.86812pt>
 File: pictures//8.png Graphic file (type png)
 <use pictures//8.png>
-Package pdftex.def Info: pictures//8.png  used on input line 207.
+Package pdftex.def Info: pictures//8.png  used on input line 210.
 (pdftex.def)             Requested size: 197.23637pt x 633.86658pt.
 
 Overfull \vbox (55.70659pt too high) has occurred while \output is active []
 
 
 [14 <./pictures//8.png>]
-Overfull \hbox (4.02966pt too wide) in paragraph at lines 213--214
+Overfull \hbox (4.02966pt too wide) in paragraph at lines 216--217
 \T2A/cmr/m/n/17.28 Частично изу-чи-ли класс для со-зда-ния пре-зен-та-ций Beame
 r,
  []
@@ -449,15 +442,15 @@ r,
 <pictures//9.png, id=65, 368.87813pt x 271.0125pt>
 File: pictures//9.png Graphic file (type png)
 <use pictures//9.png>
-Package pdftex.def Info: pictures//9.png  used on input line 217.
+Package pdftex.def Info: pictures//9.png  used on input line 220.
 (pdftex.def)             Requested size: 368.87721pt x 271.01183pt.
 <pictures//10.png, id=66, 356.83313pt x 224.33812pt>
 File: pictures//10.png Graphic file (type png)
 <use pictures//10.png>
-Package pdftex.def Info: pictures//10.png  used on input line 219.
+Package pdftex.def Info: pictures//10.png  used on input line 222.
 (pdftex.def)             Requested size: 433.62pt x 272.62752pt.
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 219--220
+Overfull \hbox (15.0pt too wide) in paragraph at lines 222--223
 [][] 
  []
 
@@ -465,20 +458,20 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 219--220
 <pictures//11.png, id=70, 470.0835pt x 90.666pt>
 File: pictures//11.png Graphic file (type png)
 <use pictures//11.png>
-Package pdftex.def Info: pictures//11.png  used on input line 221.
+Package pdftex.def Info: pictures//11.png  used on input line 224.
 (pdftex.def)             Requested size: 433.62pt x 83.63644pt.
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 221--222
+Overfull \hbox (15.0pt too wide) in paragraph at lines 224--225
 [][] 
  []
 
 <pictures//12.png, id=71, 422.32782pt x 292.09125pt>
 File: pictures//12.png Graphic file (type png)
 <use pictures//12.png>
-Package pdftex.def Info: pictures//12.png  used on input line 223.
+Package pdftex.def Info: pictures//12.png  used on input line 226.
 (pdftex.def)             Requested size: 433.62pt x 299.90799pt.
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 223--224
+Overfull \hbox (15.0pt too wide) in paragraph at lines 226--227
 [][] 
  []
 
@@ -486,10 +479,10 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 223--224
 <pictures//13.png, id=76, 548.80031pt x 494.59781pt>
 File: pictures//13.png Graphic file (type png)
 <use pictures//13.png>
-Package pdftex.def Info: pictures//13.png  used on input line 225.
+Package pdftex.def Info: pictures//13.png  used on input line 228.
 (pdftex.def)             Requested size: 433.62pt x 390.80345pt.
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 225--226
+Overfull \hbox (15.0pt too wide) in paragraph at lines 228--229
 [][] 
  []
 
@@ -497,10 +490,10 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 225--226
 <pictures//14.png, id=81, 549.55313pt x 494.59781pt>
 File: pictures//14.png Graphic file (type png)
 <use pictures//14.png>
-Package pdftex.def Info: pictures//14.png  used on input line 227.
+Package pdftex.def Info: pictures//14.png  used on input line 230.
 (pdftex.def)             Requested size: 433.62pt x 390.26761pt.
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 227--228
+Overfull \hbox (15.0pt too wide) in paragraph at lines 230--231
 [][] 
  []
 
@@ -508,28 +501,28 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 227--228
 <pictures//15.png, id=85, 553.31718pt x 262.73157pt>
 File: pictures//15.png Graphic file (type png)
 <use pictures//15.png>
-Package pdftex.def Info: pictures//15.png  used on input line 229.
+Package pdftex.def Info: pictures//15.png  used on input line 232.
 (pdftex.def)             Requested size: 433.62pt x 205.89594pt.
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 229--230
+Overfull \hbox (15.0pt too wide) in paragraph at lines 232--233
 [][] 
  []
 
 [19 <./pictures//14.png>]
-Overfull \hbox (220.93295pt too wide) in paragraph at lines 241--242
-\T2A/cmr/m/n/17.28 to LaTeX)ї на сай-те coursera.org - https://www.coursera.org
-/learn/latex/home/welcome 
+Overfull \hbox (67.53023pt too wide) in paragraph at lines 244--245
+\T2A/cmr/m/n/17.28 to LaTeX)ї - https://www.coursera.org/learn/latex/home/welco
+me 
  []
 
 [20 <./pictures//15.png>] (Otchet.aux) ) 
 Here is how much of TeX's memory you used:
- 5687 strings out of 479334
- 75297 string characters out of 2856609
- 384180 words of memory out of 3000000
- 23075 multiletter control sequences out of 15000+200000
+ 5724 strings out of 479334
+ 76001 string characters out of 2856609
+ 384185 words of memory out of 3000000
+ 23108 multiletter control sequences out of 15000+200000
  418561 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,11n,74p,1644b,667s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,11n,74p,1644b,703s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Dvojka\AppData\Local\MiKTeX\
 fonts/pk/ljfour/lh/lh-t2a/dpi600\labx0800.pk> <C:\Users\Dvojka\AppData\Local\Mi
 KTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Dvojka\AppData\Loc
@@ -543,7 +536,7 @@ pk> <C:\Users\Dvojka\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm
 1000.pk> <C:\Users\Dvojka\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600
 \labx1728.pk> <C:\Users\Dvojka\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/d
 pi600\larm0700.pk>
-Output written on Otchet.pdf (20 pages, 688142 bytes).
+Output written on Otchet.pdf (20 pages, 688130 bytes).
 PDF statistics:
  480 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
