@@ -456,15 +456,6 @@
 	\end{block}
 \end{frame}
 
-\begin{frame}[allowframebreaks]{}
-	\transwipe<1>[duration=1]
-	\begin{block}{}
-		\cm{tableofcontents} \%[allowframebreaks]
-	\end{block}
-	\frametitle{Содержание}
-	\tableofcontents
-\end{frame}
-
 \section{Формулы}
 
 \begin{frame}
@@ -694,6 +685,21 @@ a_n=\inf_n\sup_{m\ge n}a_m$
 \begin{frame}
 	\transwipe<1>[duration=1]
 	\frametitle{\insertsection}
+	\centering
+	\begin{tikzpicture}
+		\begin{axis}[
+			title = 3D model,
+			view={110}{10}, 
+			colormap/greenyellow,
+			]
+			\addplot3[surf] {-sin(x^4 + y^4)};
+		\end{axis}
+	\end{tikzpicture}
+\end{frame}
+
+\begin{frame}
+	\transwipe<1>[duration=1]
+	\frametitle{\insertsection}
 	\begin{block}{}
 		\cm{begin}\{axis\}
 		
@@ -714,6 +720,15 @@ a_n=\inf_n\sup_{m\ge n}a_m$
 \begin{frame}
 	\transwipe<1>[duration=1]
 	\frametitle{\insertsection}
+\end{frame}
+
+\begin{frame}[allowframebreaks]{}
+	\transwipe<1>[duration=1]
+	\begin{block}{}
+		\cm{tableofcontents} \%[allowframebreaks]
+	\end{block}
+	\frametitle{Содержание}
+	\tableofcontents
 \end{frame}
 
 \begin{frame}
