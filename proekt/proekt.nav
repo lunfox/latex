@@ -132,19 +132,36 @@
 \headcommand {\beamer@framepages {41}{41}}
 \headcommand {\beamer@sectionpages {37}{41}}
 \headcommand {\beamer@subsectionpages {37}{41}}
-\headcommand {\sectionentry {23}{Итоговый результат}{42}{Итоговый результат}{0}}
+\headcommand {\sectionentry {23}{Подключение пакетов}{42}{Подключение пакетов}{0}}
 \headcommand {\slideentry {23}{0}{1}{42/42}{}{0}}
 \headcommand {\beamer@framepages {42}{42}}
 \headcommand {\slideentry {23}{0}{2}{43/43}{}{0}}
 \headcommand {\beamer@framepages {43}{43}}
-\headcommand {\slideentry {23}{0}{2}{43/44}{}{0}}
-\headcommand {\beamer@framepages {43}{44}}
-\headcommand {\slideentry {23}{0}{2}{43/45}{}{0}}
-\headcommand {\beamer@framepages {43}{45}}
-\headcommand {\slideentry {23}{0}{3}{46/46}{}{0}}
+\headcommand {\beamer@sectionpages {42}{43}}
+\headcommand {\beamer@subsectionpages {42}{43}}
+\headcommand {\sectionentry {24}{Списки}{44}{Списки}{0}}
+\headcommand {\slideentry {24}{0}{1}{44/44}{}{0}}
+\headcommand {\beamer@framepages {44}{44}}
+\headcommand {\beamer@sectionpages {44}{44}}
+\headcommand {\beamer@subsectionpages {44}{44}}
+\headcommand {\sectionentry {25}{Секции и главы}{45}{Секции и главы}{0}}
+\headcommand {\slideentry {25}{0}{1}{45/45}{}{0}}
+\headcommand {\beamer@framepages {45}{45}}
+\headcommand {\slideentry {25}{0}{2}{46/46}{}{0}}
 \headcommand {\beamer@framepages {46}{46}}
-\headcommand {\beamer@partpages {1}{46}}
-\headcommand {\beamer@subsectionpages {42}{46}}
-\headcommand {\beamer@sectionpages {42}{46}}
-\headcommand {\beamer@documentpages {46}}
-\headcommand {\gdef \inserttotalframenumber {38}}
+\headcommand {\slideentry {25}{0}{2}{46/47}{}{0}}
+\headcommand {\beamer@framepages {46}{47}}
+\headcommand {\slideentry {25}{0}{2}{46/48}{}{0}}
+\headcommand {\beamer@framepages {46}{48}}
+\headcommand {\beamer@sectionpages {45}{48}}
+\headcommand {\beamer@subsectionpages {45}{48}}
+\headcommand {\sectionentry {26}{Итоговый результат}{49}{Итоговый результат}{0}}
+\headcommand {\slideentry {26}{0}{1}{49/49}{}{0}}
+\headcommand {\beamer@framepages {49}{49}}
+\headcommand {\slideentry {26}{0}{2}{50/50}{}{0}}
+\headcommand {\beamer@framepages {50}{50}}
+\headcommand {\beamer@partpages {1}{50}}
+\headcommand {\beamer@subsectionpages {49}{50}}
+\headcommand {\beamer@sectionpages {49}{50}}
+\headcommand {\beamer@documentpages {50}}
+\headcommand {\gdef \inserttotalframenumber {42}}

@@ -21,4 +21,7 @@
 \beamer@sectionintoc {20}{Матрицы}{31}{0}{20}
 \beamer@sectionintoc {21}{Псевдорисунки}{33}{0}{21}
 \beamer@sectionintoc {22}{Графики}{37}{0}{22}
-\beamer@sectionintoc {23}{Итоговый результат}{42}{0}{23}
+\beamer@sectionintoc {23}{Подключение пакетов}{42}{0}{23}
+\beamer@sectionintoc {24}{Списки}{44}{0}{24}
+\beamer@sectionintoc {25}{Секции и главы}{45}{0}{25}
+\beamer@sectionintoc {26}{Итоговый результат}{49}{0}{26}
