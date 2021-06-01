@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.5.8)  27 MAY 2021 00:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.5.8)  1 JUN 2021 21:10
 entering extended mode
 **./proekt.tex
 (proekt.tex
@@ -1676,55 +1676,55 @@ File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ] [6
 
 ]
-Underfull \hbox (badness 2809) in paragraph at lines 189--189
+Underfull \hbox (badness 2809) in paragraph at lines 190--190
 []|\T2A/cmss/m/n/12 Распределение ролей, создание удаленного
  []
 
 
-Underfull \hbox (badness 4660) in paragraph at lines 189--189
+Underfull \hbox (badness 4660) in paragraph at lines 190--190
 []|\T2A/cmss/m/n/12 Начало работы над практической частью
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
 []|\T2A/cmss/m/n/12 Изучение отдельных аспектов L[]T[]X'а,
  []
 
 
-Underfull \hbox (badness 1009) in paragraph at lines 189--189
+Underfull \hbox (badness 1009) in paragraph at lines 190--190
 []|\T2A/cmss/m/n/12 Создание презентации в L[]T[]X, которая бы
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
 []|\T2A/cmss/m/n/12 Создание отчета в L[]T[]X, который бы
  []
 
 
-Overfull \hbox (17.18892pt too wide) in paragraph at lines 189--189
+Overfull \hbox (17.18892pt too wide) in paragraph at lines 190--190
 [][] 
  []
 
 [7
 
 ]
-<images//tex.pdf, id=172, 192.72pt x 192.72pt>
+<images//tex.pdf, id=187, 192.72pt x 192.72pt>
 File: images//tex.pdf Graphic file (type pdf)
 <use images//tex.pdf>
-Package pdftex.def Info: images//tex.pdf  used on input line 209.
+Package pdftex.def Info: images//tex.pdf  used on input line 210.
 (pdftex.def)             Requested size: 142.26355pt x 142.26355pt.
 
-Overfull \hbox (19.34949pt too wide) in paragraph at lines 209--209
+Overfull \hbox (19.34949pt too wide) in paragraph at lines 210--210
 [][] 
  []
 
-<images//miktex.pdf, id=173, 770.88pt x 770.88pt>
+<images//miktex.pdf, id=188, 770.88pt x 770.88pt>
 File: images//miktex.pdf Graphic file (type pdf)
 <use images//miktex.pdf>
-Package pdftex.def Info: images//miktex.pdf  used on input line 209.
+Package pdftex.def Info: images//miktex.pdf  used on input line 210.
 (pdftex.def)             Requested size: 142.25769pt x 142.25769pt.
 
-Overfull \hbox (19.34363pt too wide) in paragraph at lines 209--209
+Overfull \hbox (19.34363pt too wide) in paragraph at lines 210--210
 [][] 
  []
 
@@ -1737,12 +1737,12 @@ le pdfs with page group included in a single page
 >]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 211.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 212.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 3.04874pt
-(hyperref)                removed on input line 211.
+(hyperref)                removed on input line 212.
 
 [9
 
@@ -1753,10 +1753,10 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 ] [12
 
 ]
-<images//background.jpg, id=338, 1541.76pt x 867.24pt>
+<images//background.jpg, id=353, 1541.76pt x 867.24pt>
 File: images//background.jpg Graphic file (type jpg)
 <use images//background.jpg>
-Package pdftex.def Info: images//background.jpg  used on input line 296.
+Package pdftex.def Info: images//background.jpg  used on input line 297.
 (pdftex.def)             Requested size: 364.19568pt x 273.14235pt.
  [13
 
@@ -1780,15 +1780,15 @@ Package pdftex.def Info: images//background.jpg  used on input line 296.
 ] [22
 
 ]
-<images//kemsu.png, id=526, 481.8pt x 283.5393pt>
+<images//kemsu.png, id=541, 481.8pt x 283.5393pt>
 File: images//kemsu.png Graphic file (type png)
 <use images//kemsu.png>
-Package pdftex.def Info: images//kemsu.png  used on input line 395.
+Package pdftex.def Info: images//kemsu.png  used on input line 396.
 (pdftex.def)             Requested size: 144.5411pt x 85.06244pt.
  [23
 
  <./images//kemsu.png>]<<VPlayer.swf>><<kem.mp4>>
-Overfull \hbox (12.71013pt too wide) in paragraph at lines 410--410
+Overfull \hbox (12.71013pt too wide) in paragraph at lines 411--411
 [][][][][]  
  []
 
@@ -1804,7 +1804,7 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 )
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-421.
+422.
 
 (C:\Users\Alex\AppData\Roaming\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
@@ -1815,58 +1815,49 @@ File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 
 ] [27
 
-] (proekt.toc) [28
+] [28
 
 ] [29
 
-
 ] [30
-
 
 ] [31
 
-] [32
+]
+Overfull \vbox (4.19061pt too high) detected at line 544
+ []
 
-] [33
+[32
 
 ]
-[34
+Overfull \hbox (9.77983pt too wide) in paragraph at lines 587--587
+[][] 
+ []
+
+[33
+
+] [34
 
 ]
-Overfull \vbox (4.19061pt too high) detected at line 552
+Overfull \hbox (6.89027pt too wide) detected at line 629
+[]
  []
 
 [35
 
 ]
-Overfull \hbox (9.77983pt too wide) in paragraph at lines 595--595
-[][] 
- []
-
-[36
-
-] [37
-
-]
-Overfull \hbox (6.89027pt too wide) detected at line 637
-[]
- []
-
-[38
-
-]
-<images//str.png, id=809, 494.59781pt x 263.48438pt>
+<images//str.png, id=770, 494.59781pt x 263.48438pt>
 File: images//str.png Graphic file (type png)
 <use images//str.png>
-Package pdftex.def Info: images//str.png  used on input line 643.
+Package pdftex.def Info: images//str.png  used on input line 635.
 (pdftex.def)             Requested size: 296.76097pt x 158.09183pt.
- [39
+ [36
 
  <./images//str.png>]
-Overfull \vbox (8.17032pt too high) detected at line 661
+Overfull \vbox (8.17032pt too high) detected at line 653
  []
 
-[40
+[37
 
 ]
 NOTE: coordinate (2Y5.0e0],3Y0.0e0]) has been dropped because it is unbounded (
@@ -1896,22 +1887,65 @@ unded (in y). (see also unbounded coords=jump).
 NOTE: coordinate (2Y7.999e-5],3Y0.0e0]) has been dropped because it is unbounde
 d (in y). (see also unbounded coords=jump). 
 
-Overfull \vbox (6.97067pt too high) detected at line 677
+Overfull \vbox (6.97067pt too high) detected at line 669
  []
 
-[41
+[38
 
 ]
-Overfull \vbox (3.90279pt too high) detected at line 692
+Overfull \vbox (3.90279pt too high) detected at line 684
  []
 
-[42
+[39
+
+]
+Overfull \vbox (3.90407pt too high) detected at line 699
+ []
+
+[40
+
+] [41
+
+] [42
 
 ] [43
 
 ] [44
 
 ] [45
+
+] (proekt.toc) [46
+
+] [47
+
+
+] [48
+
+
+]
+<images//pr.png, id=950, 488.57532pt x 365.86688pt>
+File: images//pr.png Graphic file (type png)
+<use images//pr.png>
+Package pdftex.def Info: images//pr.png  used on input line 816.
+(pdftex.def)             Requested size: 156.48894pt x 156.48787pt.
+
+Overfull \hbox (33.57487pt too wide) in paragraph at lines 816--816
+[][] 
+ []
+
+<images//pr2.png, id=951, 369.63094pt x 292.09125pt>
+File: images//pr2.png Graphic file (type png)
+<use images//pr2.png>
+Package pdftex.def Info: images//pr2.png  used on input line 816.
+(pdftex.def)             Requested size: 156.49039pt x 156.49234pt.
+
+Overfull \hbox (33.57632pt too wide) in paragraph at lines 816--816
+[][] 
+ []
+
+[49
+
+ <./images//pr.png> <./images//pr2.png>] [50
 
 ]
 \tf@nav=\write6
@@ -1928,24 +1962,24 @@ Overfull \vbox (3.90279pt too high) detected at line 692
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `proekt.out' has not changed.
-(rerunfilecheck)             Checksum: DE499F0008E6E1442B80924EDF8A11D0;3315.
+(rerunfilecheck)             Checksum: F343C3BD68766C54FAB3B869430705D2;3762.
  ) 
 Here is how much of TeX's memory you used:
- 42028 strings out of 479334
- 939907 string characters out of 2866964
- 1669252 words of memory out of 3000000
- 58442 multiletter control sequences out of 15000+200000
+ 42096 strings out of 479334
+ 940898 string characters out of 2866964
+ 1763693 words of memory out of 3000000
+ 58495 multiletter control sequences out of 15000+200000
  438424 words of font info for 110 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 131i,13n,132p,729b,2411s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 131i,13n,132p,729b,2410s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass248
 8.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass
 1728.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
 att1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
 0\lass2986.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dp
-i600\lass0600.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
-/dpi600\lass0800.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-
-t2a/dpi600\lass1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
+i600\lass0800.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
+/dpi600\lass1200.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-
+t2a/dpi600\lass0600.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
 lh-t2a/dpi600\lass1000.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/ljfour/
 jknappen/ec/dpi600\tcss1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk/lj
 four/lh/lh-t2a/dpi600\lass1440.pk> <C:\Users\Alex\AppData\Local\MiKTeX\fonts/pk
@@ -1958,9 +1992,9 @@ onts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss
 Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi17.pfb><C:/Program Fil
 es/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fo
 nts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on proekt.pdf (45 pages, 11046157 bytes).
+Output written on proekt.pdf (50 pages, 11111901 bytes).
 PDF statistics:
- 1303 PDF objects out of 1440 (max. 8388607)
- 117 named destinations out of 1000 (max. 500000)
- 1260 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1410 PDF objects out of 1440 (max. 8388607)
+ 132 named destinations out of 1000 (max. 500000)
+ 1420 words of extra memory for PDF output out of 10000 (max. 10000000)
 

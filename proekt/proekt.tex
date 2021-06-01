@@ -132,7 +132,7 @@
 
 \section{Задачи}
 
-\begin{frame}
+\begin{frame} \label{item}
 	\transblindshorizontal<1>[duration=1]
 	\frametitle{\insertsection}
 	\begin{itemize}
@@ -140,6 +140,7 @@
 		\item[\textbullet] Получение навыков верстки текста в \LaTeX'е.
 		\item[\textbullet] Создание отчета по проекту в системе \LaTeX.
 	\end{itemize}
+	\hyperlink{item2}{\beamerbutton{Вернуться обратно}}
 \end{frame}
 
 \section{Индивидуальные задачи}
@@ -456,15 +457,6 @@
 	\end{block}
 \end{frame}
 
-\begin{frame}[allowframebreaks]{}
-	\transwipe<1>[duration=1]
-	\begin{block}{}
-		\cm{tableofcontents} \%[allowframebreaks]
-	\end{block}
-	\frametitle{Содержание}
-	\tableofcontents
-\end{frame}
-
 \section{Формулы}
 
 \begin{frame}
@@ -694,6 +686,21 @@ a_n=\inf_n\sup_{m\ge n}a_m$
 \begin{frame}
 	\transwipe<1>[duration=1]
 	\frametitle{\insertsection}
+	\centering
+	\begin{tikzpicture}
+		\begin{axis}[
+			title = 3D model,
+			view={110}{10}, 
+			colormap/greenyellow,
+			]
+			\addplot3[surf] {-sin(x^4 + y^4)};
+		\end{axis}
+	\end{tikzpicture}
+\end{frame}
+
+\begin{frame}
+	\transwipe<1>[duration=1]
+	\frametitle{\insertsection}
 	\begin{block}{}
 		\cm{begin}\{axis\}
 		
@@ -709,11 +716,103 @@ a_n=\inf_n\sup_{m\ge n}a_m$
 	\end{block}
 \end{frame}
 
+\section{Подключение пакетов}
+
+\begin{frame}
+	\transwipe<1>[duration=1]
+	\frametitle{\insertsection}
+	\begin{block}{}
+		\cm{documentclass}\{article\}
+		
+		
+		\cm{usepackage}[utf8x]\{inputenc\}
+		
+		
+		\cm{usepackage}[russian]\{babel\}
+		
+		
+		\cm{usepackage}\{amsmath\}
+	\end{block}
+\end{frame}
+
+\begin{frame}
+	\transwipe<1>[duration=1]
+	\frametitle{\insertsection}
+	\begin{block}{}
+		\cm{usepackage}[a4paper, total=\{6in, 8in\}]\{geometry\}
+		
+		
+		\cm{usepackage}\{graphicx\}
+		
+		
+		\cm{usepackage}\{setspace\}
+		
+		
+		\cm{graphicspath}\{\{pictures/\}\}
+		
+		
+		\cm{DeclareGraphicsExtensions}\{.pdf,.png,.jpg\}
+	\end{block}
+\end{frame}
+
+\section{Списки}
+
+\begin{frame} \label{item2}
+	\transwipe<1>[duration=1]
+	\frametitle{\insertsection}
+	\begin{block}{}
+		\cm{begin}\{enumerate\}
+		
+		
+			\cm{item}[\cm{textbullet}] Изучение инструментов и макропакетов \cm{TeX}’а.
+			
+			...
+			
+			
+		\cm{end}\{enumerate\}
+	\end{block}
+	\hyperlink{item}{\beamerbutton{Задачи}}
+\end{frame}
+
+\section{Секции и главы}
+
+\begin{frame}
+	\transwipe<1>[duration=1]
+	\frametitle{\insertsection}
+	\begin{block}{}
+		\cm{subsection}*\{Распредение по ролям\}
+		\cm{addcontentsline}\{toc\}\{section\}\{Распределение по ролям\}
+		Панчишин Д.И. - Тимлид, создание тех задания, работа в LaTeX’е с мат. Формулами, псевдорисунки и графиками.
+	\end{block}
+	
+\end{frame}
+
+\begin{frame}[allowframebreaks]{}
+	\transwipe<1>[duration=1]
+	\begin{block}{}
+		\cm{tableofcontents} \%[allowframebreaks]
+	\end{block}
+	\frametitle{Содержание}
+	\tableofcontents
+\end{frame}
+
+
 \section{Итоговый результат}
 
 \begin{frame}
 	\transwipe<1>[duration=1]
 	\frametitle{\insertsection}
+	\begin{figure}[h]
+		\begin{center}
+			\begin{minipage}[h]{0.4\linewidth}
+				\includegraphics[width=5.5cm,height=5.5cm]{pr}
+			\end{minipage}
+			\hfill											
+			\begin{minipage}[h]{0.4\linewidth}
+				\includegraphics[width=5.5cm,height=5.5cm]{pr2}
+			\end{minipage}
+		\end{center}
+	\end{figure}
 \end{frame}
 
 \begin{frame}
