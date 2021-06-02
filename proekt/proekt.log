@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.5.8)  1 JUN 2021 21:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.5.8)  3 JUN 2021 00:45
 entering extended mode
 **./proekt.tex
 (proekt.tex
@@ -1839,21 +1839,26 @@ Overfull \hbox (9.77983pt too wide) in paragraph at lines 587--587
 ] [34
 
 ]
-Overfull \hbox (6.89027pt too wide) detected at line 629
-[]
+<images//str.jpg, id=763, 691.58376pt x 316.18124pt>
+File: images//str.jpg Graphic file (type jpg)
+<use images//str.jpg>
+Package pdftex.def Info: images//str.jpg  used on input line 615.
+(pdftex.def)             Requested size: 345.79103pt x 158.09023pt.
+
+Overfull \hbox (38.50116pt too wide) in paragraph at lines 615--615
+[][]  
  []
 
 [35
 
-]
-<images//str.png, id=770, 494.59781pt x 263.48438pt>
-File: images//str.png Graphic file (type png)
-<use images//str.png>
-Package pdftex.def Info: images//str.png  used on input line 635.
-(pdftex.def)             Requested size: 296.76097pt x 158.09183pt.
- [36
+ <./images//str.jpg>]
+Overfull \hbox (6.89027pt too wide) detected at line 635
+[]
+ []
 
- <./images//str.png>]
+[36
+
+]
 Overfull \vbox (8.17032pt too high) detected at line 653
  []
 
@@ -1965,10 +1970,10 @@ Package rerunfilecheck Info: File `proekt.out' has not changed.
 (rerunfilecheck)             Checksum: F343C3BD68766C54FAB3B869430705D2;3762.
  ) 
 Here is how much of TeX's memory you used:
- 42096 strings out of 479334
- 940898 string characters out of 2866964
- 1763693 words of memory out of 3000000
- 58495 multiletter control sequences out of 15000+200000
+ 42097 strings out of 479334
+ 940905 string characters out of 2866964
+ 1760691 words of memory out of 3000000
+ 58496 multiletter control sequences out of 15000+200000
  438424 words of font info for 110 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,13n,132p,729b,2410s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1992,7 +1997,7 @@ onts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss
 Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi17.pfb><C:/Program Fil
 es/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fo
 nts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on proekt.pdf (50 pages, 11111901 bytes).
+Output written on proekt.pdf (50 pages, 11145042 bytes).
 PDF statistics:
  1410 PDF objects out of 1440 (max. 8388607)
  132 named destinations out of 1000 (max. 500000)
